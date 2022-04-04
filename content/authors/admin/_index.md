@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a junior student of Electronics Information Engineering at Huazhong University of Science and Technology (HUST), Wuhan, China. I have been a Deep Learning Research Intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In 2021, I was working as a CV Research visiting student at MMLab, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now a CV Research Intern advised by Prof. Xinggang Wang at HUST. I work on computer vision problems with special focus on Few-shot Semantic Segmentation.
+I am a junior student of Electronics Information Engineering at Huazhong University of Science and Technology (HUST), Wuhan, China. I have been a Deep Learning Research Intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In 2021, I was working as a CV Research visiting student at MMLab, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am now a CV Research Intern advised by Prof. Xinggang Wang at HUST. I work on computer vision problems with special focus on Few-shot Semantic Segmentation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
