@@ -28,8 +28,8 @@ experience:
     company_url: 'http://mmlab.siat.ac.cn/'
     company_logo: 
     location: Shenzhen
-    date_start: '2021-07'
-    date_end: '2021-09'
+    date_start: '2021-07-01'
+    date_end: '2021-09-01'
     description: |2-
         Responsibilities include:
         
@@ -42,8 +42,8 @@ experience:
     company_url: 'http://www.digitalearthlab.com.cn/'
     company_logo: 
     location: Beijing
-    date_start: '2020-09'
-    date_end: '2021-04'
+    date_start: '2020-09-01'
+    date_end: '2021-04-01'
     description: |2-
         Responsibilities include:
         
