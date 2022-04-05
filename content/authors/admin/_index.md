@@ -63,7 +63,7 @@ email: "jackywang28@outlook.com"
 highlight_name: true
 ---
 
-I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (CAS) (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), CAS. I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST).
+I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (CAS) (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), CAS. In 2022, I attend National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences with my teammates from the Department of Forensic Medicine.  I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST).
 
 My main research interests are deep learning and graph neural networks(GNN). My desire is to pursue broader and deeper research in deep learning, particularly deep probabilistic models, graph neural networks. As a junior student of Electronics Information Engineering at HUST, I sincerely apply for a PHD on deep learning.
 
