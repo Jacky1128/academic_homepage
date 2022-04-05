@@ -34,34 +34,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NCSSpMkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Jacky1128
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jackywang28@outlook.com' # For a direct email link, use "mailto:test@example.org".
+  # Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jackywang28@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -73,3 +69,8 @@ and Technology (HUST).
 My main research interests are deep learning and graph neural networks(GNN). My desire is to pursue broader and deeper research in deep learning, particularly deep probabilistic models, graph neural networks. I am now sincerely applying
 for PHD.
 
+**News:**
+* **Six CVPR 2022** papers accepted.
+* **One ICLR 2022** paper accepted.
+* **One ICRA 2022** paper accepted.
+* **One NeurIPS 2021** paper accepted as spotlight.
