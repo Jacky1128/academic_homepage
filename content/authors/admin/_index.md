@@ -14,8 +14,7 @@ organizations:
   url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science 
-and Technology (HUST).
+bio: I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST).
 
 # Interests to show in About widget
 interests:
