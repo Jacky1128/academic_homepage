@@ -14,8 +14,7 @@ organizations:
   url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was a deep learning research intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working 
-on computer vision problems with special focus on Few-shot Semantic Segmentation under Prof. Xinggang Wang at HUST.
+bio: I was a deep learning research intern at Key Lab of Digital Earth Science, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working on computer vision problems with special focus on Few-shot Semantic Segmentation under Prof. Xinggang Wang at HUST.
 
 # Interests to show in About widget
 interests:
@@ -68,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I was a deep learning research intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working on computer vision problems with special focus on Few-shot Semantic Segmentation under Prof. Xinggang Wang at HUST.
+I was a deep learning research intern at Key Lab of Digital Earth Science, Chinese Academy of Sciences (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now working on computer vision problems with special focus on Few-shot Semantic Segmentation under Prof. Xinggang Wang at HUST.
 
 My main research interests are deep learning and graph neural networks(GNN).
 
