@@ -5,7 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -26,10 +26,10 @@ experience:
   - title: Visiting Student
     company: MMLab, Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
     company_url: 'http://mmlab.siat.ac.cn/'
-    company_logo: org-gc
+    company_logo: 
     location: Shenzhen
-    date_start: '2021-7'
-    date_end: '2021-9'
+    date_start: '2021-07'
+    date_end: '2021-09'
     description: |2-
         Responsibilities include:
         
@@ -40,10 +40,10 @@ experience:
   - title: Research Intern
     company: Key Lab of Digital Earth Science, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
-    company_logo: org-x
+    company_logo: 
     location: Beijing
-    date_start: '2020-9'
-    date_end: '2021-4'
+    date_start: '2020-09'
+    date_end: '2021-04'
     description: |2-
         Responsibilities include:
         
