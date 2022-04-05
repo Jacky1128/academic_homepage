@@ -69,6 +69,6 @@ My main research interests are deep learning and graph neural networks(GNN). My 
 for a PHD on deep learning.
 
 **News:**
-* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**   attendance.
-* **SIAT-MMLab, CAS**   visiting student (2021.7-2021.9).
-* **Key Lab of Digital Earth Science, CAS**   research intern(2020.9-2021.4).
+* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    attendance.
+* **SIAT-MMLab, CAS**    visiting student (2021.7-2021.9).
+* **Key Lab of Digital Earth Science, CAS**    research intern (2020-2021).
