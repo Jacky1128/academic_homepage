@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: ocean
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    org_name: 'HUST'
+    description: 'Zedong Wang, researcher in Computer Vision and Deep Learning.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'OpenStreetMap (Mapnik)'
     api_key: ''
     zoom: 15
 
