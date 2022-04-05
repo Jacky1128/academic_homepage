@@ -23,11 +23,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Student
+    company: Prof. Xinggang Wang, Huazhong University of Science and Technology
+    company_url: 'https://xinggangw.info/'
+    company_logo: 
+    location: Wuhan, Hubei, China
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Few-shot Semantic Segmnetation research
+     
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
     company_url: 'http://mmlab.siat.ac.cn/'
     company_logo: 
-    location: Shenzhen
+    location: Shenzhen, Guangdong, China
     date_start: '2021-07-01'
     date_end: '2021-09-01'
     description: |2-
@@ -41,7 +53,7 @@ experience:
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
     company_logo: 
-    location: Beijing
+    location: Beijing, China
     date_start: '2020-09-01'
     date_end: '2021-04-01'
     description: |2-
