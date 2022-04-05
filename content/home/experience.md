@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting Student
-    company: MMLab, Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
+    company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
     company_url: 'http://mmlab.siat.ac.cn/'
     company_logo: 
     location: Shenzhen
@@ -38,7 +38,7 @@ experience:
         * Research data selection
         
   - title: Research Intern
-    company: Key Lab of Digital Earth Science, Chinese Academy of Sciences
+    company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
     company_logo: 
     location: Beijing
