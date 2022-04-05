@@ -18,9 +18,9 @@ bio: I am a junior student of Electronics Information Engineering at Huazhong Un
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Deep Learning 
+- Deep Learning
 - Computer Vision
+- Graph Neural Networks
 
 # Education to show in About widget
 education:
@@ -40,9 +40,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+ # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Jacky1128
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a junior student of Electronics Information Engineering at Huazhong University of Science and Technology (HUST), Wuhan, China. I have been a Deep Learning Research Intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In 2021, I was working as a CV Research visiting student at MMLab, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. 
+I am a junior student of Electronics Information Engineering at Huazhong University of Science and Technology (HUST), Wuhan, China. I was a Deep Learning Research Intern at Key Lab of Digital Earth, Aerospace Information Research Institute, Chinese Academy of Sciences (2020-2021). In 2021, I was working as a CV Research visiting student at MMLab, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. I am now a Research Intern working on few-shot semantic segmentation problems under Prof. Xinggang Wang, Huazhong University of Science and Technology. 
 
-I am now a Research Intern under Prof. Xinggang Wang, Huazhong University of Science and Technology. I work on computer vision problems with special focus on Few-shot Semantic Segmentation.
+My main research interests are deep learning and graph neural networks(GNN).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
