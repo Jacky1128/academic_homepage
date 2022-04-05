@@ -70,7 +70,5 @@ My main research interests are deep learning and graph neural networks(GNN). My 
 for PHD.
 
 **News:**
-* **Six CVPR 2022** papers accepted.
-* **One ICLR 2022** paper accepted.
-* **One ICRA 2022** paper accepted.
-* **One NeurIPS 2021** paper accepted as spotlight.
+* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022** attendance.
+* **SIAT-MMLab** visiting student (2021.7-2021.9).
