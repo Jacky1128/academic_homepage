@@ -18,7 +18,7 @@ bio: Research student in Computer Vision and Deep Learning at Huazhong Universit
 
 # Interests to show in About widget
 interests:
-- Deep Learning
+- Deep Learning (probabilistic)
 - Computer Vision
 - Graph Neural Networks
 
@@ -34,18 +34,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=NCSSpMkAAAAJ
+#- icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.com/citations?user=NCSSpMkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Jacky1128
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/hajakW28
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jackywang28@outlook.com' # For a direct email link, use "mailto:test@example.org".
@@ -67,7 +67,7 @@ I was a deep learning research intern at Key Laboratory of Digital Earth Science
 
 I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). At the same time, I attend National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences with my teammates from the Department of Forensic Medicine, HUST.
 
-My main research interests are within general deep learning theory and computer vision. My desire is to pursue solid and interpretable deep learning research in both application and theory aspects. I am now sincerely applying for a PHD as rookie researcher with passion and determination.
+My main research interests are within general deep learning theory and computer vision. My desire is to pursue solid and interpretable deep learning research in both application and theory aspects. I am now sincerely applying for a PHD as a rookie researcher with passion and determination.
 
 **News:**
 * **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    attendance.
