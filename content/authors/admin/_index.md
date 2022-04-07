@@ -63,10 +63,11 @@ email: "jackywang28@outlook.com"
 highlight_name: true
 ---
 
-I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (CAS) (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), CAS. I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST).
-At the same time, I attend National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences with my teammates from the Department of Forensic Medicine, HUST
+I was a deep learning research intern at Key Laboratory of Digital Earth Science, Chinese Academy of Sciences (CAS) (2020-2021). In the summer of 2021, I was working as a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), CAS. 
 
-My main research interests are deep learning and graph neural networks (GNN). My desire is to pursue solid and interpretable deep learning research in both application and theory aspects. I am now sincerely applying for a PHD on deep learning.
+I am now working on computer vision problems with special focus on few-shot semantic segmentation under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST).At the same time, I attend National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences with my teammates from the Department of Forensic Medicine, HUST
+
+My main research interests are within general deep learning theory and computer vision. My desire is to pursue solid and interpretable deep learning research in both application and theory aspects. I am now sincerely applying for a PHD on deep learning.
 
 **News:**
 * **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    attendance.
