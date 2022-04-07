@@ -10,8 +10,8 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Projects (coming soon)
+subtitle: 'some deep learning projects with code'
 
 content:
   # Page type to display. E.g. project.
