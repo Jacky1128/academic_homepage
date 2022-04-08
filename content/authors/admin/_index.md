@@ -35,7 +35,7 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). I was a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS) in the summer of 2021. From 2020 to 2021, I was a remote deep learning research intern at Key Laboratory of Digital Earth Science, CAS.
+I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). In the summer of 2021, I was a visiting student at Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a deep learning research intern (remote) at Key Laboratory of Digital Earth Science, CAS.
 
 My main research interests are within computer vision and deep learning, and my research goal is to pursue solid and interpretable deep learning research in either application or theory aspect. As a passionate young researcher with clear mind, I am now sincerely applying for a PHD in 2023 Fall. 
 
