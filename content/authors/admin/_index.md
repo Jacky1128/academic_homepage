@@ -16,7 +16,7 @@ social:
     label: ""
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/hajakW28
+    link: https://twitter.com/zedong_research
   - icon: envelope
     icon_pack: fas
     link: mailto:jackywang28@outlook.com
