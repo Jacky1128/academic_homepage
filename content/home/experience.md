@@ -46,8 +46,8 @@ experience:
         Responsibilities include:
         
         * Segmentation algorithm research
-        * Model configuration
-        * Research data selection
+        * computer vision model configuration
+        * computer vision data selection
         
   - title: Research Intern
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
@@ -59,9 +59,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Remote Sensing building segmentation algorithm research
-        * Remote sensing image segmentation project
-        * Machine learning & Deep Learning
+        * Remote Sensing Building Semantic Segmentation research under Dr. Xiaoping Du
+        * Remote Sensing Segmentation projects
+        * Machine learning and Deep Learning study 
 
 
 design:
