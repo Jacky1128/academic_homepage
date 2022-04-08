@@ -1,8 +1,6 @@
 ---
 title: "[Chatter] Why I build this blog?"
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+subtitle: What can you get from my blog?
 date: 2020-12-13T00:00:00Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
