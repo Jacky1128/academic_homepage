@@ -10,7 +10,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Posts
+  - name: Academic Blog
     url: '#posts'
     weight: 30
   - name: Projects
