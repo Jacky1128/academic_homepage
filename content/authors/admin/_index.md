@@ -22,7 +22,7 @@ social:
     link: mailto:jackywang28@outlook.com
   - icon: cv
     icon_pack: ai
-    link: uploads\ZedongWang_CV.pdf
+    link: assets/media/zedongwang_cv.pdf
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://www.hust.edu.cn/
