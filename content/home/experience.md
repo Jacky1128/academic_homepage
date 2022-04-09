@@ -33,7 +33,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Few-shot Semantic Segmnetation research
+        * Independent few-shot semantic segmnetation research under Prof. Xinggang Wang.
      
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
@@ -45,9 +45,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Segmentation algorithm research
-        * computer vision model configuration
-        * computer vision data selection
+        * Segmentation algorithm research with Dr. Bin Fu's team.
+        * Computer vision model configuration.
+        * Computer vision data selection.
         
   - title: Research Intern
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
@@ -59,9 +59,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Remote Sensing Building Semantic Segmentation research under Dr. Xiaoping Du
-        * Remote Sensing Segmentation projects
-        * Machine learning and Deep Learning study 
+        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du.
+        * Machine learning & deep learning rudiment study.
 
 
 design:
