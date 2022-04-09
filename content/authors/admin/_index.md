@@ -6,9 +6,9 @@ bio: Research student in Computer Vision and Deep Learning. Former visiting
   Academy of Sciences. Former research intern at Key Lab of Digital Earth
   Science, Chinese Academy of Sciences.
 interests:
-  - Computer Vision
-  - Few-shot Segmentation
-  - Deep Learning
+  - Few-shot segmentation
+  - Computer vision
+  - Deep learning
 social:
   - icon: github
     icon_pack: fab
