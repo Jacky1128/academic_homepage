@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Research Student
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
-    company_url: 'https://xinggangw.info/'
+    company_url: 'https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ'
     company_logo: 
     location: Wuhan, Hubei, China
     date_start: '2021-09-01'
