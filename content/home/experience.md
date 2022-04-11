@@ -26,7 +26,7 @@ experience:
   - title: Research Student
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
     company_url: 'https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ'
-    company_logo: icons\hust_logo.svg
+    company_logo: hust_logo.svg
     location: Wuhan, Hubei, China
     date_start: '2021-09-01'
     date_end: ''
