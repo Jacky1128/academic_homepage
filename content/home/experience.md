@@ -47,8 +47,7 @@ experience:
         
         * Segmentation algorithm research with Dr. Bin Fu's team.
         * Computer vision model configuration.
-        * Computer vision data selection.
-        
+   
   - title: Research Intern
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
