@@ -26,14 +26,14 @@ experience:
   - title: Research Student
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
     company_url: 'https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ'
-    company_logo: 
+    company_logo: icons\hust_logo.svg
     location: Wuhan, Hubei, China
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Independent few-shot semantic segmnetation research under Prof. Xinggang Wang.
+        * Independent few-shot semantic segmentation research under Prof. Xinggang Wang.
      
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
@@ -45,10 +45,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Segmentation algorithm research with Dr. Bin Fu's team.
+        * Semantic segmentation research with Dr. Bin Fu's team.
         * Computer vision model configuration.
    
-  - title: Research Intern
+  - title: Research Intern (remote)
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
     company_logo: 
@@ -58,8 +58,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du.
-        * Machine learning & deep learning rudiment study.
+        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du. (second half)
+        * Machine learning & deep learning rudiment study. (first half)
 
 
 design:
