@@ -31,7 +31,7 @@ I will the blog on the following questions:
 Define there is a three-layer neural network and a mid-layer-unit in the forward propagation as below:
 $$\gamma_{k} =\sum_{i=1}^{h} W_{ik}^{T}x_{i} + b$$
 
-where $\gamma_{k}$ indicates the $k^{th}$ output of this middle-layer, $W_{ik}$, $x_{i}$, $b$ and $h$ are the weights, independent variables (inputs), bias and the number of hidden-layer units, respectively. 
+where $\gamma_{k}$ indicates the $k^{th}$ output of the hidden-layer, $W_{ik}$, $x_{i}$, $b$ and $h$ are the weights, independent variables (inputs), bias and the number of hidden-layer units, respectively. 
 
 $$x_i^t=x_i^{t-1}-lr\nabla f_{x_i}(x_i^{t-1})$$
 
