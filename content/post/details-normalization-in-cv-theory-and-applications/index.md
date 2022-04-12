@@ -24,9 +24,13 @@ I will the blog on the following questions:
 * **Do we really solve the problems with Norm?**
 * **Why don't we apply Norm in Few-Shot learning tasks like others?**
 
-## [Coming soon.]
+## \[Coming soon.]
 
 ## Ⅰ. ICS Problem
+
+[Batch Normalization: Accelerating Deep Network Training b Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normaliztion  
+
+
 
 ## Ⅱ. Normalization Principle
 
