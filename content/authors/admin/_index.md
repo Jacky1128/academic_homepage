@@ -1,8 +1,9 @@
 ---
 title: Zedong Wang
 role: Junior student of Electronics Information Engineering
-bio: Research student in computer vision. Former visiting student at SIAT-MMLab, Chinese 
-  Academy of Sciences (CAS). Former research intern at Key Lab of Digital Earth Science, CAS.
+bio: Research student in computer vision. Former visiting student at SIAT-MMLab,
+  Chinese Academy of Sciences (CAS). Former research intern at Key Lab of
+  Digital Earth Science, CAS.
 interests:
   - Few-shot segmentation
   - Computer vision
@@ -35,7 +36,7 @@ highlight_name: true
 ---
 I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). Druing the summer 2021, I fortunately worked as a visiting student of Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a deep learning research intern (remote) at Key Laboratory of Digital Earth Science, CAS (2020-2021).
 
-My main research interests are within computer vision and deep learning, and my academic desire is to pursue solid and interpretable deep learning research under a relatively pure research environment. Therefore, as a young researcher with passion and clear mind, I am now sincerely applying for a PHD position in 2023 Fall. 
+My academic desire is to pursue solid and interpretable deep learning research under a relatively pure research environment. I have been preparing for this these years. Therefore, as a young researcher with passion and clear mind, I am now sincerely applying for a PHD position in 2023 Fall. 
 
 **News:**
 
