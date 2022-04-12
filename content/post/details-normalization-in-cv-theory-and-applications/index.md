@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A series of normalization methods have bursted for years and has greatly propelled the development of deep building blocks. It seems quite normal to apply these norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations in this blog post.
+A series of normalization methods have bursted for years and have greatly propelled the development of deep building blocks. It seems quite normal to apply these norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations in this blog post.
 
 I will the blog on the following questions:
 
