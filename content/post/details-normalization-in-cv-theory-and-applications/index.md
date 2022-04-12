@@ -31,7 +31,7 @@ I will the blog on the following questions:
 Define a mid-layer-unit in the backprop as below:
 $$\gamma_{i} =\sum_{k=1}^{n} W_{ik}^{T}x_{k} + b$$,
 
-where $\gamma_{i}$ indicates 
+where $\gamma_{i}$ indicates the outputs of this middle-layer, $W_{ik}$, $x_{k}$and$b$are the weights, independent variables (inputs) and bias respectively.
 
 ## Ⅱ. Normalization Principle
 
