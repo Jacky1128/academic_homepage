@@ -24,17 +24,17 @@ I will the blog on the following questions:
 * **Do we really solve the problems with Norm?**
 * **Why don't we apply Norm in Few-Shot learning tasks like others?**
 
-# Ⅰ. ICS Problem
+## Ⅰ. ICS Problem
 
-# Ⅱ. Normalization Principle
+## Ⅱ. Normalization Principle
 
-## 1. General Normalization
-## 2. Batch Normalization
-## 3. Layer Normalization
-## 4. Instance Normalization
-## 5. Group Normalization
-## 6. Switchable Normalization
-## 7. Weight Normalization
-## 8. Cosine Normalization
+### 1. General Normalization
+### 2. Batch Normalization
+### 3. Layer Normalization
+### 4. Instance Normalization
+### 5. Group Normalization
+### 6. Switchable Normalization
+### 7. Weight Normalization
+### 8. Cosine Normalization
 
-# Ⅲ. Drawbacks in specific cases
+## Ⅲ. Drawbacks in specific cases
