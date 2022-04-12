@@ -58,8 +58,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du. (second half)
-        * Machine learning & deep learning rudiment study. (first half)
+        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du. (second stage)
+        * Machine learning & deep learning rudiment study. (first stage)
 
 
 design:
