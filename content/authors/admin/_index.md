@@ -1,9 +1,8 @@
 ---
 title: Zedong Wang
 role: Junior student of Electronics Information Engineering
-bio: Research student in computer vision and deep learning. Former visiting student 
-  at SIAT-MMLab, Chinese Academy of Sciences. Former research intern at Key Lab of 
-  Digital Earth Science, Chinese Academy of Sciences.
+bio: Research student in computer vision. Former visiting student at SIAT-MMLab, Chinese 
+  Academy of Sciences (CAS). Former research intern at Key Lab of Digital Earth Science, CAS.
 interests:
   - Few-shot segmentation
   - Computer vision
