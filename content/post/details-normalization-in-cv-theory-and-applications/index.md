@@ -8,7 +8,8 @@ authors:
   - ZedongWang
 tags:
   - Details
-categories: []
+categories:
+  - Details
 image:
   filename: featured
   focal_point: Smart
