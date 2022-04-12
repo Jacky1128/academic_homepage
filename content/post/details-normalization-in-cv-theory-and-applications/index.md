@@ -31,7 +31,7 @@ I will the blog on the following questions:
 Define a mid-layer-unit in the backprop as below:
 
 {{< math >}} 
-$$f(x) = W_{i} * x_{i} + b$$
+$$f(x) = W_{i}^{T}x_{i} + b$$
 {{< math >}}
 
 
