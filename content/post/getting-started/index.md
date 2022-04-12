@@ -1,6 +1,6 @@
 ---
 title: "[Chatter] Kick off here"
-subtitle: Everything about this academic blog
+subtitle: Something about me and my academic blog
 date: 2022-04-08T07:27:09.824Z
 summary: Coming soon
 draft: false
