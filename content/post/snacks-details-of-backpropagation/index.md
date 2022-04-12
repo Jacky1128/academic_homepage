@@ -1,5 +1,5 @@
 ---
-title: "[Snacks] Details of Backpropagation"
+title: "[Snacks] Backpropagation"
 subtitle: Coming soon
 date: 2022-04-12T04:28:30.862Z
 draft: false
