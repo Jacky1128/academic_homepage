@@ -33,7 +33,7 @@ $$\gamma_{i} =\sum_{k=1}^{n} W_{ik}^{T}x_{k} + b$$
 
 where $\gamma_{i}$ indicates the outputs of this middle-layer, $W_{ik}$, $x_{k}$ and $b$ are the weights, independent variables (inputs) and bias, respectively.
 
-$$x_i^t=x_i^{t-1}-lr\nabla f_{xi}(x_i^{t-1})$$
+$$x_i^t=x_i^{t-1}-lr\nabla f_{x_i}(x_i^{t-1})$$
 
 
 
