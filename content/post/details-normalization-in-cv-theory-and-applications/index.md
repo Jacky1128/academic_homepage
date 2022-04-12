@@ -23,3 +23,5 @@ I will the blog on the following questions:
 * **How many types of Norm we commonly use and how do they work in detail?**
 * **Do they really solve the problems?**
 * **Why don't we apply Norm in Few-Shot learning tasks like others?**
+
+## Chapter1. ICS Problem
