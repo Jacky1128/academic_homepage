@@ -1,12 +1,13 @@
 ---
 slides: example
 url_pdf: ""
+title: Few-Shot Semantic Segmentation Structure
 summary: ""
 url_video: ""
 date: 2022-04-09T13:21:57.229Z
 external_link: ""
 url_slides: ""
-title: Coming Soon
+subtitle: Coming soon
 tags:
   - Deep Learning
 links:
@@ -19,4 +20,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-Please wait.
+Coming soon.
