@@ -37,4 +37,4 @@ I will the blog on the following questions:
 ## 7. Weight Normalization
 ## 8. Cosine Normalization
 
-# Ⅲ. 
+# Ⅲ. Drawbacks in specific cases
