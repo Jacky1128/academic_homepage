@@ -1,5 +1,5 @@
 ---
-title: "[Details] Normalization in CV: from theory to applications"
+title: "[Details] Normalization in CV: What indeed happens in it"
 subtitle: Coming soon
 date: 2022-04-12T04:12:22.959Z
 draft: false
