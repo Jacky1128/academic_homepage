@@ -32,7 +32,6 @@ Define a mid-layer-unit in the backprop as below:
 
 {{< math >}} 
 $$f(x) = W_{i} * x_{i} + b$$
-
 {{< math >}}
 
 
