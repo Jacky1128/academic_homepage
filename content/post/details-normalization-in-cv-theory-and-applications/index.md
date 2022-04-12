@@ -19,10 +19,10 @@ A series of normalization methods have bursted for years and have greatly propel
 
 I will the blog on the following questions:
 
-**Why we apply Norm in deep algorithms?**
+* **Why we apply Norm in deep algorithms?**
 
-**How many types of Norm we commonly use and how do they work in detail?**
+* **How many types of Norm we commonly use and how do they work in detail?**
 
-**Do they really solve the problems?**
+* **Do they really solve the problems?**
 
-**Why don't we apply Norm in few-shot learning tasks like others?**
+* **Why don't we apply Norm in Few-Shot learning tasks like others?**
