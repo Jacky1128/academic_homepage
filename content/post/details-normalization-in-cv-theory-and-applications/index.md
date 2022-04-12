@@ -21,7 +21,7 @@ I will the blog on the following questions:
 
 * **Why we apply Norm in deep algorithms?**
 * **How many types of Norm we commonly use and how do they work in detail?**
-* **Do they really solve the problems?**
+* **Do they really solve the problems with Norm?**
 * **Why don't we apply Norm in Few-Shot learning tasks like others?**
 
 ## Chapter1. ICS Problem
