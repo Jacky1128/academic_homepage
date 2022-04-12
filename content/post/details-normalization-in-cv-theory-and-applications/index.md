@@ -28,7 +28,12 @@ I will the blog on the following questions:
 
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normalization, to address this issue.Before we kick off the explanation of ICS, I would like to make a brief recall of the backpropagation process here , which will be illustrated elaborately in \[Snacks] pattern of my blog. 
 
-Define the output of a mid-layer-unit as{{< math >}} $z_{i}${{< math >}}, the weights of it {{< math >}}$W_{i}_{k}${{< math >}} , the input of it {{< math >}}$x_{k}${{< math >}}
+Define a mid-layer-unit in the backprop as below:
+
+{{< math >}} 
+$$f(x) = W_{i} * x_{i} + b$$
+
+{{< math >}}
 
 
 ## Ⅱ. Normalization Principle
