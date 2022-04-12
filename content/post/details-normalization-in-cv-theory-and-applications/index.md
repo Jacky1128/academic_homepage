@@ -24,7 +24,6 @@ I will the blog on the following questions:
 * **Do we really solve the problems with Norm?**
 * **Why don't we apply Norm in Few-Shot learning tasks like others?**
 
-## \[Coming soon.]
 
 ## Ⅰ. ICS Problem
 
