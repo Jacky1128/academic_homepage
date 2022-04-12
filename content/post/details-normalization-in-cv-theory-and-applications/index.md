@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A series of normalization methods have bursted for years and have greatly propelled the development of deep algorithms. Armed with powerful packages like PyTorch and Tensorflow, It is quite normal and effortless to apply these Norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain have some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations here.
+A series of normalization methods have bursted for years and have greatly propelled the development of deep model applications. Armed with powerful packages like PyTorch and Tensorflow, It is quite normal and effortless to apply these Norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain have some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations here.
 
 I will the blog on the following questions:
 
