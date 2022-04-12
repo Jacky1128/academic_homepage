@@ -29,9 +29,9 @@ I will the blog on the following questions:
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normalization, to address this issue.Before we kick off the explanation of ICS, I would like to make a brief recall of the backpropagation process here, which will be illustrated elaborately in \[Snacks] pattern of my blog soon. 
 
 Define there is a three-layer neural network and a mid-layer-unit in the forward propagation as below:
-$$\gamma_{l} =\sum_{i=1}^{h} W_{il}^{T}x_{i} + b$$
+$$\gamma_{k} =\sum_{i=1}^{h} W_{ik}^{T}x_{i} + b$$
 
-where $\gamma_{l}$ indicates the $l^{th}$ output of this middle-layer, $W_{il}$, $x_{i}$, $b$ and $h$ are the weights, independent variables (inputs), bias and the number of hidden-layer units, respectively. 
+where $\gamma_{k}$ indicates the $k^{th}$ output of this middle-layer, $W_{ik}$, $x_{i}$, $b$ and $h$ are the weights, independent variables (inputs), bias and the number of hidden-layer units, respectively. 
 
 $$x_i^t=x_i^{t-1}-lr\nabla f_{x_i}(x_i^{t-1})$$
 
