@@ -26,7 +26,7 @@ I will the blog on the following questions:
 
 ## Ⅰ. ICS Problem
 
-[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normalization, to address this issue. Before we kick off the explanation of ICS, I would like to make a brief recall of the backpropagation process here, which will be illustrated elaborately in \[Snacks] pattern of my blog soon. 
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normalization, to address this issue. Before we kick off the explanation of ICS, I would make a brief recall of the backpropagation process first, which will be illustrated elaborately in \[Snacks] pattern of my blog soon. 
 
 Define there is a three-layer neural network and a mid-layer-unit in the forward propagation as below:
 $$\gamma_{k} =\sum_{i=1}^{h} W_{ik}^{T}x_{i} + b_{k}$$
