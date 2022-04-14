@@ -17,4 +17,4 @@ image:
   filename: null
 url_code: ""
 ---
-As I have mentioned above, there is an unfinished research of remote sensing Gaofen-2 satellite building semantic segmentation. I will try to recall it and reproduce the code since I am out of that group.
+As I have mentioned above, there is an unfinished research of remote sensing Gaofen-2 satellite building semantic segmentation. I will try to recall it and reproduce the source code since I am out of that group.
