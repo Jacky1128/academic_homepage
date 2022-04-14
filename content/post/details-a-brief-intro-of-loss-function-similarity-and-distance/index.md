@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Coming soon
+***[Get to know me and my academic blog.](https://zedongwang.netlify.app/post/getting-started/)***
