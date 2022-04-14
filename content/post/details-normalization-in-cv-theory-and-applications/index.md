@@ -17,8 +17,8 @@ image:
 ---
 ***[Get to know me and my academic blog.](https://zedongwang.netlify.app/post/getting-started/)***
 
-With going deep into my recent few-shot segmentation research, I have come across something interesting about the application of Norm, which prompted me to delve into it again.
-A series of normalization methods have bursted for years and have greatly propelled the development of deep algorithm applications. Armed with powerful packages like PyTorch and Tensorflow, it is quite normal and effortless to apply these Norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain have some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations here.
+With going deep into my recent few-shot segmentation research, I have come across something interesting about the application of Normalization, which prompted me to delve into it again.
+A series of normalization methods have bursted for years and have greatly propelled the development of deep algorithm applications. Armed with powerful packages like PyTorch and Tensorflow, it is quite normal and effortless to apply these Normalization function in various types of deep learning models. However, we may not fully fathom how it works and may remain have some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations here.
 
 I will propel the blog based on the following questions:
 
