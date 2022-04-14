@@ -15,6 +15,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+***[Get to know me and my academic blog.](https://zedongwang.netlify.app/post/getting-started/)***
+
 A series of normalization methods have bursted for years and have greatly propelled the development of deep algorithm applications. Armed with powerful packages like PyTorch and Tensorflow, it is quite normal and effortless to apply these Norm function in various types of deep learning models. However, we may not fully fathom how it works and may remain have some misunderstood concepts. Therefore, I would try to explain the details behind Norm operations here.
 
 I will the blog on the following questions:
@@ -29,13 +31,11 @@ I will the blog on the following questions:
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) revealed the problem of Internal Covariate Shift (ICS) and proposed a normalized-based method, Batch Normalization, to address this issue. Before we kick off the explanation of ICS, I would make a brief recall of the backpropagation process first, which will be illustrated elaborately in \[Snacks] pattern of my blog soon. 
 
 Define there is a three-layer neural network and a mid-layer-unit in the forward propagation as below:
-$$\gamma_{k} =\sum_{i=1}^{h} W_{ik}^{T}x_{i} + b_{k}$$
+$$\gamma*{k} =\sum*{i=1}^{h} W*{ik}^{T}x*{i} + b_{k}$$
 
-where $\gamma_{k}$ indicates the $k^{th}$ output of the hidden-layer, $W_{ik}$, $x_{i}$, $b_{k}$ and $h$ are the weights, the $i^{th}$ independent variable (input), the $k^{th}$ bias and the number of hidden-layer units, respectively. 
+where $\gamma*{k}$ indicates the $k^{th}$ output of the hidden-layer, $W*{ik}$, $x*{i}$, $b*{k}$ and $h$ are the weights, the $i^{th}$ independent variable (input), the $k^{th}$ bias and the number of hidden-layer units, respectively. 
 
-$$x_i^t=x_i^{t-1}-lr\nabla f_{x_i}(x_i^{t-1})$$
-
-
+$$x*i^t=x_i^{t-1}-lr\nabla f*{x_i}(x_i^{t-1})$$
 
 ## Ⅱ. Normalization Principle
 
