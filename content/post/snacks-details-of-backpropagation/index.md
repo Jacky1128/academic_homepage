@@ -16,3 +16,10 @@ image:
   preview_only: false
 ---
 ***[Get to know me and my academic blog.](https://zedongwang.netlify.app/post/getting-started/)***
+
+Let us start the first post with the core of deep learning, backpropagation algorithm. I would expain the mathematical details of backprop elaborately in the following order:
+
+* **Jacobian and Hessian matrix.**
+* **Backward differentiation with Jacobian matrix.**
+* **General Backpropagation algorithm.**
+* **Others to be updated.**
