@@ -1,5 +1,5 @@
 ---
-title: "[Snacks] Backpropagation"
+title: "[Details] From Jacobian to Backpropagation"
 subtitle: Coming soon
 date: 2022-04-12T04:28:30.862Z
 draft: false
