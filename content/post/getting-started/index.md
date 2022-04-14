@@ -24,3 +24,4 @@ I am Zedong Wang, a Hong Kong senior student at Huazhong University of Science a
 
 
 My advisor often tells me to keep those bells and whistles away and do solid, worthwhile research. With the deepening of computer vision, I gradually set an ambition of pursuing mathematically rigorous as well as interpretable academic.
+My academic goal now is to do solid and interpretable deep learning research under a pure academic environment. 
