@@ -1,7 +1,7 @@
 ---
 title: "[Chatter] Something about me and my academic blog"
-subtitle: Coming soon
-date: 2022-04-08T07:27:09.824Z
+subtitle: Pursue solid and interpretable deep learning research.
+date: 2022-04-14T10:23:17.360Z
 summary: Coming soon
 draft: false
 featured: false
@@ -19,4 +19,6 @@ image:
   placement: 2
   preview_only: false
 ---
-## Coming soon.
+I am Zedong Wang, a Hong Kong senior student at Huahong University of Science and Technology (HUST). I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). Druing the summer 2021, I fortunately worked as a visiting student of Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a deep learning research intern (remote) at Key Laboratory of Digital Earth Science, CAS (2020-2021).
+
+My academic desire is to pursue solid and interpretable deep learning research under a pure academic environment. I have been preparing for this for years. Therefore, as a passionate young researcher with clear mind, I am now sincerely applying for a PHD position in 2023 Fall.
