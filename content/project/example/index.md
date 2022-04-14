@@ -7,7 +7,7 @@ url_video: ""
 date: 2022-04-09T13:21:57.229Z
 external_link: ""
 url_slides: ""
-subtitle: Coming soon
+subtitle: I would upload souce code here if possible
 tags:
   - Deep Learning
 links:
