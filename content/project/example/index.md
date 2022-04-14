@@ -10,14 +10,11 @@ url_slides: ""
 subtitle: I would upload souce code here if possible
 tags:
   - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: null
 url_code: ""
 ---
-Coming soon.
+I would upload souce code here if possible
