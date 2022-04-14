@@ -1,5 +1,5 @@
 ---
-title: "[Details] Pervasive Deep Learning Optimizers"
+title: "[Details] Pervasive Deep Learning Optimizers: what happens behind them"
 subtitle: Coming soon
 date: 2022-04-12T04:32:16.139Z
 draft: false
