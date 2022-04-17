@@ -1,5 +1,5 @@
 ---
-title: "[Chatter] Welcome to my academic blog!"
+title: "[Chatter] Welcome!"
 subtitle: Pursue solid and interpretable deep learning research.
 date: 2022-04-14T10:48:36.971Z
 summary: Info about me and my academic blog.
