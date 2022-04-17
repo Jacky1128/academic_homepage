@@ -20,7 +20,7 @@ image:
   preview_only: false
   filename: null
 ---
-I am Zedong Wang, a Hong Kong senior student at Huazhong University of Science and Technology (HUST). Welcome to my academic blog. I would make a brief introduction about myself from an academic standpoint.
+I am Zedong Wang, a Hong Kong senior student majoring in Electronics Information Engineering (machine intelligence) at Huazhong University of Science and Technology (HUST). Welcome to my academic blog. I would make a brief introduction about myself from an academic standpoint.
 
 ## Research Experience
 
