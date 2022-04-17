@@ -24,7 +24,7 @@ I am Zedong Wang, a Hong Kong senior student majoring in Electronics Information
 
 ## Research Experience
 
-I got my first taste of scientific research when I was a high school student. research intern (remote) at [Key Laboratory of Digital Earth Science](http://www.digitalearthlab.com.cn/), Chinese Academy of Sciences (2020-2021). In the summer of 2021, I fortunately worked as a visiting student of [Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT)](http://mmlab.siat.ac.cn/), Chinese Academy of Sciences. I am now working on few-shot semantic segmentation problems under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST.
+I got my first taste of scientific research the moment I was a high school student at Nanshan Foreign Language School, Shenzhen. I was a research intern (remote) at [Key Laboratory of Digital Earth Science](http://www.digitalearthlab.com.cn/), Chinese Academy of Sciences (2020-2021). In the summer of 2021, I fortunately worked as a visiting student of [Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT)](http://mmlab.siat.ac.cn/), Chinese Academy of Sciences. I am now working on few-shot semantic segmentation problems under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST.
 
 ## Research Interests and Attitude
 
