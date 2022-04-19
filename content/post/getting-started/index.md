@@ -1,7 +1,7 @@
 ---
 title: "[Chatter] Information about me"
 subtitle: Pursue solid and interpretable deep learning research.
-date: 2022-04-19T14:04:14.655Z
+date: 2022-04-19T14:14:01.783Z
 summary: Info about me and my academic blog.
 draft: false
 featured: false
@@ -35,6 +35,8 @@ My research interests are within computer vision and deep learning. My advisor o
 I firmly believe that creativity usually comes from details and I eagerly need a pure research enviornment to exert my strengths and abilities. It is exactly the reseaon why I decided to apply for a PHD position directly. Besides, I have planned to make explanations of some theoretical details regularly on my homepage in the form of academic blogs. In my view, it is not only a platform to show my academic foundations, but a testimony of my lifelong learning.
 
 ## Schedules
-1. Complete my current few-shot semantic segmentation research topics under Prof. Xinggang Wang before I graduated from HUST. 
-2. Update my academic blogs with what I have accumulated these years in my spare time.
-3. Apply for a PHD position in 2023 Fall.
+* ** Complete my current few-shot semantic segmentation research topics under Prof. Xinggang Wang before I graduated from HUST. **
+* **Update my academic blogs with what I have accumulated these years in my spare time.**
+* **Apply for a PHD position in 2023 Fall.**
+
+I firmly believe that I am well-prepared for the coming research and challenges.
