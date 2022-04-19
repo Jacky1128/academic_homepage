@@ -30,8 +30,7 @@ After I entered college, I began to get into the field of engineering. I was a r
 
 ## My research interests & attitude
 
-My research interests are within computer vision and deep learning. Prof. Xingggang Wang often tells me to keep those bells and whistles away and do solid research. As my research recognition is gradually built up, I set an ambition of pursuing mathematically rigorous deep learning research under a relatively pure academic environment. 
+My research interests are within computer vision and deep learning. Prof. Xingggang Wang often tells me to keep those bells and whistles away and do solid research. As my research recognition is gradually built up, I set an ambition of pursuing mathematically rigorous deep learning research under a relatively pure academic environment. It is exactly the reseaon why I decided to build this academic blog and apply for a PHD position directly. I firmly believe that creativity usually comes from details. I have planned to make explanations of some theoretical details regularly on my homepage in the form of academic blogs.
 
 ## My feature plans
 
-It is exactly the reseaon why I decided to build this academic blog and apply for a PHD position directly. I firmly believe that creativity usually comes from details. I have planned to make explanations of some theoretical details regularly on my homepage in the form of academic blogs.
