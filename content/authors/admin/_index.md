@@ -38,6 +38,6 @@ I am a 21-year-old Hong Kong junior majoring in Electronics Information Engineer
 
 **Recent:**
 
-* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    Attendance. (present)
+* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    Participation. (present)
 * **SIAT-MMLab, CAS**    Visiting student (2021.7-2021.9).
 * **Key Lab of Digital Earth Science, CAS**    Research intern (2020-2021).
