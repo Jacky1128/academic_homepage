@@ -36,7 +36,7 @@ highlight_name: true
 ---
 I am a 21-year-old Hong Kong junior majoring in Electronics Information Engineering, at Huazhong University of Science and Technology (HUST). I am working on few-shot semantic segmentation under Prof. Xinggang Wang at HUST. In the summer 2021, I worked as a visiting student at Multimedia Lab (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a research intern (remote) at Key Lab of Digital Earth Science, CAS (2020-2021). 
 
-My academic interests are within few-shot semantic segmentation, computer vision and deep learning. Besides, I am also insterested in probabilistic deep learning and graph neural networks. My academic desire is to fathom and decompose technical details as well as do solid and interpretable deep learning research. I am now sincerely applying for a PHD position in 2023 Fall.
+My academic interests are within few-shot semantic segmentation, computer vision and deep learning. Besides, I am also insterested in probabilistic deep learning and graph neural networks. My academic desire is to fathom and decompose technical details of deep learning as well as do solid and interpretable deep learning research. I am now applying for a PHD position in 2023 Fall.
 
 **Recent:**
 
