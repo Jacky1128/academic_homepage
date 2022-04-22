@@ -1,6 +1,6 @@
 ---
 title: Zedong Wang
-role: Junior student of Electronics Information Engineering
+role: Junior student in Electronics Information Engineering
 bio: Research student in computer vision. Former visiting student at SIAT-MMLab,
   Chinese Academy of Sciences (CAS). Former research intern at Key Lab of
   Digital Earth Science, CAS.
