@@ -20,8 +20,7 @@ image:
   preview_only: false
   filename: null
 ---
-I am Zedong Wang, a 21-year-old Hong Kong junior student at Huazhong University of Science and Technology (HUST), majoring in Electronics Information Engineering (machine intelligence). I have a great insterest in the "unknown" I would make an introduction for myself from an academic standpoint.
-
+I am Zedong Wang, a 21-year-old Hong Kong junior student at Huazhong University of Science and Technology (HUST), majoring in Electronics Information Engineering (machine intelligence). Exploring the "unknown" of surroundings is my cup of tea. The same is true of research process. The positive feedback is shaped the moment I try to decompose technical details of deep learning and extend my knowledge scope.
 ## Research Experience
 
 I got my first taste of scientific research in high school. I was selected as head of STEM club and team leader in an environmental project in which I and my team investigated the environmental damage caused by invasive plants in the green belts of Nanshan District, Shenzhen. This project was recognized by the local government which gave funding support. This experience in particular shaped my overall statistical skills as well as communication and presentation skills. More importantly, it stimulated my passion for scientific research.
