@@ -40,4 +40,4 @@ I firmly believe that creativity usually comes from details and I eagerly need a
 * **Update my academic blogs with what I have accumulated these years in my spare time.**
 * **Apply for a PHD position in 2023 Fall.**
 
-I have prepared myself well for the coming research and challenges.
+I have prepared myself well for the following research and challenges.
