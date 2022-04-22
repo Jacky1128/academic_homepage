@@ -20,7 +20,7 @@ image:
   preview_only: false
   filename: null
 ---
-I am Zedong Wang, a 21-year-old Hong Kong junior student majoring in Electronics Information Engineering (machine intelligence) at Huazhong University of Science and Technology (HUST). I would make an introduction for myself from an academic standpoint.
+I am Zedong Wang, a 21-year-old Hong Kong junior student at Huazhong University of Science and Technology (HUST), majoring in Electronics Information Engineering (machine intelligence). I would make an introduction for myself from an academic standpoint.
 
 ## My research experience
 
