@@ -20,7 +20,7 @@ image:
   preview_only: false
   filename: null
 ---
-I am Zedong Wang (王泽栋), a Hong Kong senior student majoring in Electronics Information Engineering (machine intelligence) at Huazhong University of Science and Technology (HUST). I would make an introduction for myself from an academic standpoint.
+I am Zedong Wang (王泽栋), a Hong Kong junior student majoring in Electronics Information Engineering (machine intelligence) at Huazhong University of Science and Technology (HUST). I would make an introduction for myself from an academic standpoint.
 
 ## My research experience
 
@@ -37,6 +37,7 @@ I firmly believe that creativity usually comes from details and I eagerly need a
 ## My research interests & attitude
 
 ## Schedules
+
 * **Complete my current few-shot semantic segmentation research topics under Prof. Xinggang Wang before I graduated from HUST.**
 * **Update my academic blogs with what I have accumulated these years in my spare time.**
 * **Apply for a PHD position in 2023 Fall.**
