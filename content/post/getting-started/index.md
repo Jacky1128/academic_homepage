@@ -34,9 +34,9 @@ I am now working on few-shot semantic segmentation under [Prof. Xinggang Wang](h
 
 ## Insterests & Attitude
 
-My research interests are within computer vision and deep learning. My advisor often tells me to keep those bells and whistles away and do solid research. As my research recognition is gradually built up, I set an ambition of pursuing mathematically rigorous deep learning research under a relatively pure academic environment. 
+My research interests are within computer vision and deep learning. As my research goes deeper, I have realized that novelties usually come from the exploration of details. Therefore, I set myself an academic goal of keeping those bells and whistles away and pursuing solid, mathematically interpretable deep learning research.
 
-I firmly believe that creativity usually comes from details and I eagerly need a pure research enviornment to exert my strengths and abilities. It is exactly the reseaon why I decided to apply for a PHD position directly. Besides, I have planned to make explanations of some theoretical details regularly on my homepage in the form of academic blogs. In my view, it is not only a platform to show my academic foundations, but a testimony of my lifelong learning.
+What's more, I firmly believe that novelties usually come from the exploration of details. It is exactly the reseaon why I decided to apply for a PHD position directly. Besides, I have planned to make explanations of some theoretical details regularly on my homepage in the form of academic blogs. In my view, it is not only a platform to show my academic foundations, but a testimony of my lifelong learning.
 
 ## Schedules
 
