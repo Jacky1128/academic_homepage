@@ -34,9 +34,9 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at Huazhong University of Science and Technology (HUST). Druing the summer 2021, I fortunately worked as a visiting student of Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a deep learning research intern (remote) at Key Laboratory of Digital Earth Science, CAS (2020-2021).
+I am a 21-year-old junior student majoring in Electronics Information Engineering, at Huazhong University of Science and Technology (HUST). I am working on few-shot semantic segmentation problems under Prof. Xinggang Wang at HUST. In the summer 2021, I fortunately worked as a visiting student of Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a deep learning research intern (remote) at Key Laboratory of Digital Earth Science, CAS (2020-2021). My academic interests are with in few-shot semantic segmentation, computer vision and deep learning. Besides, I am insterested in probabilistic deep learning and graph neural networks.
 
-My academic desire is to pursue solid and interpretable deep learning research under a pure academic environment. I have been preparing for this for years. Therefore, as a passionate young researcher with clear mind, I am now sincerely applying for a PHD position in 2023 Fall.
+My academic desire is to pursue solid and interpretable deep learning research under a pure academic environment. As a junior with passionate and clear mind, I am now sincerely applying for a PHD position in 2023 Fall.
 
 **News:**
 
