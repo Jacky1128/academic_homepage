@@ -1,7 +1,7 @@
 ---
 title: "[Notice] Information about me"
 subtitle: ""
-date: 2022-04-22T16:25:19.311Z
+date: 2022-04-23T16:18:50.819Z
 summary: Info about me and my academic blog.
 draft: false
 featured: false
