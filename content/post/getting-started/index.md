@@ -38,6 +38,6 @@ My research interests are within computer vision and deep learning. As my resear
 
 * **Complete my few-shot semantic segmentation research before my graduation.**
 * **Update my academic blogs with what I have accumulated these years in my spare time.**
-* **Apply for a PHD position in 2023 Fall.**
+* **Apply for PHD in 2023 Fall.**
 
 I have prepared myself well for the following research and challenges.
