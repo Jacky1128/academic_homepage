@@ -36,7 +36,7 @@ My research interests are within computer vision and deep learning. As my resear
 
 ## Schedules
 
-* **Complete my few-shot semantic segmentation research before I graduated from HUST.**
+* **Complete my few-shot semantic segmentation research before my graduation.**
 * **Update my academic blogs with what I have accumulated these years in my spare time.**
 * **Apply for a PHD position in 2023 Fall.**
 
