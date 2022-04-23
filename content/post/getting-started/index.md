@@ -1,5 +1,5 @@
 ---
-title: "[Chatter] Information about me"
+title: "[Notice] Information about me"
 subtitle: ""
 date: 2022-04-22T16:25:19.311Z
 summary: Info about me and my academic blog.
@@ -9,9 +9,9 @@ authors:
   - ZedongWang
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Chatter
+  - Notice
 categories:
-  - Chatter
+  - Notice
 projects: []
 image:
   caption: ""
