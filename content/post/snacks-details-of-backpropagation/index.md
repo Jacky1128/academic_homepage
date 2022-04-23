@@ -24,4 +24,6 @@ Let us kick off my first post of *Details* series with the core of deep learning
 * **General Backpropagation algorithm.**
 * **Others to be updated.**
 
-[Coming soon.]
+$$\gamma*{k} =\sum*{i=1}^{h} W*{ik}^{T}x*{i} + b_{k}$$
+
+\[Coming soon.]
