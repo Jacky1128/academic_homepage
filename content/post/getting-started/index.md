@@ -1,10 +1,10 @@
 ---
-title: "[Notice] Information about me"
+title: Information about me
 subtitle: ""
 date: 2022-04-23T16:35:02.283Z
 summary: Info about me and my academic blog.
 draft: false
-featured: false
+featured: true
 authors:
   - ZedongWang
 lastmod: 2020-12-13T00:00:00.000Z
