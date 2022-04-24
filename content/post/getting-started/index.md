@@ -20,7 +20,7 @@ image:
   preview_only: false
   filename: null
 ---
-I am Zedong Wang, a 21-year-old Hong Kong junior student at Huazhong University of Science and Technology (HUST), majoring in Electronics Information Engineering (machine intelligence). Exploring the "unknown" of surroundings is my cup of tea. The same is true of my research process. The positive feedback is stimulated the moment I try to decompose technical details of deep learning and extend my knowledge scope. It is exactly the main reason why I determined to do deep learning research.
+I am Zedong Wang, a 21-year-old Hong Kong junior student at Huazhong University of Science and Technology (HUST), majoring in Electronics Information Engineering (machine intelligence). Exploring the "unknown" of the surroundings is my cup of tea. The same is true of my research process. The positive feedback cycle can be stimulated the moment I try to decompose technical details of deep learning and extend my knowledge scope. It is exactly the main reason why I determined to do deep learning research.
 
 ## Step into research
 
