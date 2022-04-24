@@ -38,8 +38,7 @@ I am a 21-year-old Hong Kong junior majoring in Electronics Information Engineer
 
 My academic interests are within few-shot semantic segmentation, computer vision and deep learning. Besides, I am also insterested in probabilistic deep learning and graph neural networks. My academic desire is to fathom and decompose technical details of deep learning as well as do solid and interpretable deep learning research. I am now applying for a PHD position in 2023 Fall.
 
-
-[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)
+\#[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)#
 
 **Recent:**
 
