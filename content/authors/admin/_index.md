@@ -42,6 +42,5 @@ I am working on few-shot semantic segmentation under Prof. Xinggang Wang at HUST
 
 **Recent:**
 
-* **National Competition for undergraduate on Innovation Research & Experimental Design in Basic Medical Sciences 2022**    Participation. (present)
 * **SIAT-MMLab, CAS**    Visiting student (2021.7-2021.9).
 * **Key Lab of Digital Earth Science, CAS**    Research intern (2020-2021).
