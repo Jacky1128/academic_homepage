@@ -6,6 +6,7 @@ bio: Research student in computer vision. Former visiting student at SIAT-MMLab,
   Digital Earth Science, CAS.
 interests:
   - Few-shot segmentation
+  - Metric Learning
   - Computer vision
   - Deep learning
 social:
