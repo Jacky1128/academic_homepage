@@ -1,5 +1,5 @@
 ---
-title: Information about me
+title: Info about me
 subtitle: ""
 date: 2022-04-23T16:35:02.283Z
 summary: Info about me and my academic blog.
@@ -32,7 +32,7 @@ I am now working on few-shot semantic segmentation under [Prof. Xinggang Wang](h
 
 ## Insterests & Attitude
 
-My research interests are within computer vision and deep learning. As I go deeper, I have realized that novelties usually come from the exploration of details. Therefore, I set myself an academic goal of keeping those bells and whistles away and pursuing solid, mathematically interpretable deep learning research. Besides, I have planned to make explanations of  theoretical details of deep learning regularly on my academic blog. In my view, it is a testimony of my lifelong learning. However, to be honest, it is not realistic for me to do sound research whole-heartedly as an undergraduate these years. I am really grateful for the intern and visiting chances that make me live the life of being a pure researcher, which is also what I am eager for. Therefore, it is exactly the reseaon why I determined to apply for a PHD position directly. An opportunity to apply myself to deep learning research in a relatively pure research environment is what I am desired for. 
+My research interests are within few-shot segmentation, metric learning and deep learning. I would love to do deeper research within general deep learning and AI+ in the future. As I go deeper, I have realized that novelties usually come from the exploration of details. Therefore, I set myself an academic goal of keeping those bells and whistles away and pursuing solid, mathematically interpretable deep learning research. Besides, I have planned to make explanations of  theoretical details of deep learning regularly on my academic blog. In my view, it is a testimony of my lifelong learning. However, to be honest, it is not realistic for me to do sound research whole-heartedly as an undergraduate these years. I am really grateful for the intern and visiting chances that make me live the life of being a pure researcher, which is also what I am eager for. Therefore, it is exactly the reseaon why I determined to apply for a PHD position directly. An opportunity to apply myself to deep learning research in a relatively pure research environment is what I am desired for. 
 
 ## Schedules
 
