@@ -7,8 +7,7 @@ bio: Research student in computer vision. Former visiting student at SIAT-MMLab,
   Digital Earth Science, CAS.
 interests:
   - Few-shot Segmentation
-  - Metric Learning
-  - Deep Learning
+  - Deep Learning，AI+ application
 social:
   - icon: github
     icon_pack: fab
