@@ -7,7 +7,8 @@ bio: Research student in computer vision. Former visiting student at SIAT-MMLab,
   Digital Earth Science, CAS.
 interests:
   - Few-shot Segmentation
-  - Deep Learning，AI+ application
+  - Deep Learning theory 
+  - AI+ application
 social:
   - icon: github
     icon_pack: fab
@@ -42,5 +43,6 @@ Although I started out with computer vision, I would love to do deeper research 
 
 **Recent:**
 
+* **Under Prof. Xinggang Wang, HUST**    Research intern (2021.9-now).
 * **SIAT-MMLab, CAS**    Visiting student (2021.7-2021.9).
 * **Key Lab of Digital Earth Science, CAS**    Research intern (2020-2021).
