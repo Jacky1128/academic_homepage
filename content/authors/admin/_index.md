@@ -33,7 +33,7 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a third-year undergraduate student at school of Electronics Information and Communication, Huazhong University of Science and Technology (HUST). My current research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and graph neural networks. 
+I am a third-year undergraduate student at School of Electronics Information and Communication, Huazhong University of Science and Technology (HUST). My current research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and graph neural networks. 
 
 I am now working on few-shot semantic segmentation under Prof. Xinggang Wang at HUST. In the summer 2021, I worked as a visiting student at Multimedia Lab (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a research intern (remote) at Key Lab of Digital Earth Science, CAS (2020-2021).
 
