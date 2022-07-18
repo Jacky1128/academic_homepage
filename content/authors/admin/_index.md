@@ -4,8 +4,8 @@ role: 3rd-year EE undergrad.
 avatar_filename: avatar.jpg
 bio: Researcher in deep learning.
 interests:
-  - Few-shot Segmentation
-  - Deep Learning theory
+  - Few-Shot Segmentation
+  - Visual Representation Learning
   - AI+ application
 social:
   - icon: github

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Student
+  - title: Research Intern
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
     company_url: 'https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ'
     company_logo: 
