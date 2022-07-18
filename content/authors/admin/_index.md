@@ -41,7 +41,7 @@ Although I started out with computer vision, I would love to do deeper research 
 
 \#[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)#
 
-**Recent:**
+**News:**
 
 * **Supervised by Prof. Xinggang Wang, HUST**    Research intern (2021.9-now).
 * **SIAT-MMLab, CAS**    Visiting student (2021.7-2021.9).
