@@ -37,7 +37,7 @@ I am a third-year undergraduate student at School of Electronics Information and
 
 I am now working on few-shot semantic segmentation under Prof. Xinggang Wang at HUST. In the summer 2021, I worked as a visiting student at Multimedia Lab (MMLab), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). I was a research intern (remote) at Key Lab of Digital Earth Science, CAS (2020-2021).
 
-Although I started out with computer vision, I would love to do deeper research within general deep learning and AI+ in the future. My academic desire is to fathom and get a good grasp of details of deep learning theory as well as do solid and interpretable deep learning research.  I am now applying for a PHD position in 2023 Fall.
+Although I started out with computer vision, I would love to do deeper research in AI+ in the future. My academic desire is to fathom and get a good grasp of details of deep learning theory as well as do solid and interpretable deep learning research.  I am now applying for a PHD position in 2023 Fall.
 
 \#[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)#
 
