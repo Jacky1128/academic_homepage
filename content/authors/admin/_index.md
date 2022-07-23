@@ -1,6 +1,6 @@
 ---
 title: Zedong Wang
-role: 3rd-year EE undergrad.
+role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
 bio: Researcher in deep learning.
 interests:
