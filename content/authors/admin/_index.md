@@ -37,8 +37,6 @@ I am currently a third-year undergraduate student in Electronics Information Eng
 
 My research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and AI+ applications. I am working on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). My academic goal is to do solid and interpretable deep learning research. 
 
-\#[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)#
-
 **News:**
 
 * **Supervised by Prof. Xinggang Wang, HUST**    Research intern (2021.9-now).
