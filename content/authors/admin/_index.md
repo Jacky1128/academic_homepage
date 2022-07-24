@@ -39,6 +39,6 @@ Previously, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mm
 
 **News:**
 
-* **Supervised by Prof. Xinggang Wang, HUST**    Research intern (2021.9-now).
+* **09/2021 - now:**    Research intern advised by Prof. Xinggang Wang at HUST.
 * **SIAT-MMLab, CAS**    Visiting student (2021.7-2021.9).
 * **Key Lab of Digital Earth Science, CAS**    Research intern (2020-2021).
