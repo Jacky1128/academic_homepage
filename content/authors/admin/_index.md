@@ -33,9 +33,9 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am currently a third-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). I am a research intern at HUST visual learning team advised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). Before that, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) in the summer of 2021. From 2020 to 2021, I was a research intern (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021). My research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and AI+ applications. I am working on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). My academic goal is to do solid and interpretable deep learning research. 
+I am currently a third-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). I am a research intern at HUST visual learning team advised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). Before that, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) in the summer of 2021. From 2020 to 2021, I was a research intern (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021). 
 
-
+My research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and AI+ applications. I am working on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). My academic goal is to do solid and interpretable deep learning research. 
 
 \#[MORE INFO](https://zedongwang.netlify.app/post/getting-started/)#
 
