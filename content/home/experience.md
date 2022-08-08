@@ -24,6 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: CAIRI, Westlake University
+    company_url: 
+    company_logo: 
+    location: Hangzhou, Zhejiang, China
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Visual representation Learning.
+
+  - title: Research Intern
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
     company_url: 'https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ'
     company_logo: 
