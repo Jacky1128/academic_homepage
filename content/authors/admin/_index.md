@@ -32,12 +32,12 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and cross-disciplinary AI+ applications. Since Sep. 2021, I have been a research intern at HUST visual learning team and I am now working on few-shot semantic segmentation under the supervision of [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). My academic goal is to do solid and interpretable deep learning research.\
+I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within visual representation learning and deep learning. Besides, I am also insterested in probabilistic deep learning and cross-disciplinary AI+ applications. Since Sep. 2021, I have been a research intern at HUST visual learning team and I am now working on few-shot semantic segmentation under the supervision of [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). In the summer of 2022, I became a research intern at [CAIRI](https://github.com/Westlake-AI) (Stan Z. Li 's Lab), [Westlake University](https://en.westlake.edu.cn/). My academic goal is to do solid and interpretable deep learning research.\
 \
 Previously, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021) focused on computer vision applied to remote sensing images.  
 
 **News:**
 
-* **07/2022 - now**   Summer research intern at [CAIRI](https://github.com/Westlake-AI), Westlake University.
+* **07/2022 - now**   Summer research intern at [CAIRI](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
 * **09/2021 - now**   Research intern advised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) @ [HUST](http://english.hust.edu.cn/).
 * **07/2021 - 09/2021**   Visiting student @ [SIAT-MMLab](http://mmlab.siat.ac.cn/).
