@@ -38,6 +38,6 @@ In the summer of 2022, I became a research intern at [CAIRI](https://github.com/
 
 **News:**
 
-* **07/2022 - now**   Summer research intern at [CAIRI](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
+* **07/2022 - now**   Summer research intern @ [CAIRI](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
 * **09/2021 - now**   Research intern advised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) @ [HUST](http://english.hust.edu.cn/).
 * **07/2021 - 09/2021**   Visiting student @ [SIAT-MMLab](http://mmlab.siat.ac.cn/).
