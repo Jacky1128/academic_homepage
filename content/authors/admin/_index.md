@@ -4,7 +4,6 @@ role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
 bio: Researcher in deep learning.
 interests:
-  - Few-Shot Segmentation
   - Visual Representation Learning
   - AI+ application
 social:
@@ -39,5 +38,6 @@ Previously, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mm
 
 **News:**
 
+* **07/2022 - now**   Summer research intern at CAIRI, Westlake University.
 * **09/2021 - now**   Research intern advised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) @ [HUST](http://english.hust.edu.cn/).
 * **07/2021 - 09/2021**   Visiting student @ [SIAT-MMLab](http://mmlab.siat.ac.cn/).

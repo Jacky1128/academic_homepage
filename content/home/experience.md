@@ -45,7 +45,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Independent few-shot semantic segmentation research under Prof. Xinggang Wang.
+        * Few-shot semantic segmentation research advised by Prof. Xinggang Wang.
      
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
@@ -57,7 +57,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Semantic segmentation research with Dr. Bin Fu's team.
+        * Semantic segmentation research under Dr. Bin Fu's team.
         * Computer vision model configuration.
    
   - title: Research Intern (remote)
