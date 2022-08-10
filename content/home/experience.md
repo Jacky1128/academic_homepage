@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: CAIRI, Westlake University
-    company_url: 
+    company_url: 'https://github.com/Westlake-AI'
     company_logo: 
     location: Hangzhou, Zhejiang, China
     date_start: '2022-07-01'
