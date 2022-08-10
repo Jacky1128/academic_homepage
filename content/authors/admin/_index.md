@@ -2,7 +2,7 @@
 title: Zedong Wang
 role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
-bio: Researcher in deep learning.
+bio: Student of deep learning.
 interests:
   - Visual Representation Learning
   - AI+ application
@@ -38,5 +38,5 @@ In the summer of 2022, I became a research intern at [CAIRI](https://github.com/
 
 **News:**
 
-* **08/2022 - now**   Research intern (remote) @ [CAIRI](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
+* **08/2022 - now**   Research intern (remote) @ [CAIRI](https://github.com/Westlake-AI).
 * **07/2022 - 08/2022**   Summer research intern @ [CAIRI](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
