@@ -34,6 +34,8 @@ experience:
         Responsibilities include:
         
         * Visual representation Learning.
+        * Mixup data augmentation methods.
+        * Masked Image Modeling.
 
   - title: Research Intern
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
