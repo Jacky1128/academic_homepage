@@ -4,8 +4,8 @@ role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
 bio: Student of deep learning.
 interests:
-  - Visual Representation Learning
-  - AI+ application
+  - Cross-disciplinary AI
+  - Data efficient visual representation learning
 social:
   - icon: github
     icon_pack: fab
@@ -32,9 +32,9 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within visual representation learning and cross-disciplinary AI+ applications. Currently, I am a research intern (remote) at  [CAIRI AI Lab](https://github.com/Westlake-AI) (Prof. [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/). I worked on few-shot semantic segmentation under Prof. [Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](http://english.hust.edu.cn/). My academic goal is to do solid and interpretable deep learning research. \
+I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within cross-disciplinary AI and its applications. Currently, I am a research intern (remote) at  [CAIRI AI Lab](https://github.com/Westlake-AI) (Prof. [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on data efficient visual representation learning and AI+ applications. My academic goal is to do solid and interpretable AI research. \
 \
-In the summer of 2022, I fortunately became a research intern at [CAIRI AI Lab](https://github.com/Westlake-AI). Previously, I worked as a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021) focused on computer vision applied to remote sensing images.  
+In the summer of 2022, I fortunately became a research intern at [CAIRI AI Lab](https://github.com/Westlake-AI). Previously, I worked on few-shot semantic segmentation under Prof. [Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](http://english.hust.edu.cn/). I was a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) during 2021's summer. From 2020 to 2021, I conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
 
 **News:**
 
