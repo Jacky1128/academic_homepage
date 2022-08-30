@@ -39,4 +39,4 @@ In the summer of 2022, I fortunately became a research intern at [CAIRI AI Lab](
 **News:**
 
 * **08/2022 - now**   Research intern (remote) @ [CAIRI AI Lab](https://github.com/Westlake-AI).
-* **07/2022 - 08/2022**   Summer research intern @ [CAIRI AI Lab](https://github.com/Westlake-AI), [Westlake University](https://en.westlake.edu.cn/).
+* **07/2022 - 08/2022**   Summer research intern @ [CAIRI AI Lab](https://github.com/Westlake-AI).
