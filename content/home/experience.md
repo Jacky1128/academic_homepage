@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: CAIRI AI Lab, Westlake University
+    company: CAIRI, Westlake University
     company_url: 'https://github.com/Westlake-AI'
     company_logo: 
     location: Hangzhou, Zhejiang, China
@@ -35,7 +35,7 @@ experience:
         
         * Visual representation Learning.
         * Mixup-related data augmentation methods.
-        * Masked Image Modeling.
+        * Self-supervised representation learning.
 
   - title: Research Intern
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
