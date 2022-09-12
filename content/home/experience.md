@@ -33,7 +33,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Visual representation Learning.
+        * OpenMixup visual representation Learning toolbox.
         * Mixup-related data augmentation methods.
         * Self-supervised representation learning.
 

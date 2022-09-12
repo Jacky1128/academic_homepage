@@ -38,4 +38,4 @@ In the summer of 2022, I fortunately became a research intern at [CAIRI](https:/
 
 **News:**
 
-* **07/2022 - now**   Research intern @ [CAIRI](https://github.com/Westlake-AI).
+* **07/2022 - now**   [OpenMixup](https://github.com/Westlake-AI/openmixup) visual representation learning toolbox.
