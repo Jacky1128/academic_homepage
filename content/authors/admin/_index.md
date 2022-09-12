@@ -38,4 +38,4 @@ In the summer of 2022, I fortunately became a research intern at [CAIRI](https:/
 
 **News:**
 
-* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) toolbox.
+* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup).
