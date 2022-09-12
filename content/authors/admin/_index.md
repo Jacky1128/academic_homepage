@@ -34,8 +34,8 @@ highlight_name: true
 ---
 I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within cross-disciplinary AI, self-supervised learning, data efficient visual representation learning. Currently, I am a research intern (remote) at  [CAIRI AI Lab](https://github.com/Westlake-AI) ([Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on Mixup-related visual representation learning and AI for science applications. My academic goal is to do solid and interpretable AI research. \
 \
-In the summer of 2022, I fortunately became a research intern at [CAIRI](https://github.com/Westlake-AI). Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. I was a visiting student at [Multimedia Lab (MMLab)](http://mmlab.siat.ac.cn/), [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) during 2021's summer. From 2020 to 2021, I conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
+In the summer of 2022, I fortunately became a research intern at [CAIRI](https://github.com/Westlake-AI). Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) during 2021's summer. From 2020 to 2021, I conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
 
 **News:**
 
-* **09/2022**   [OpenMixup](https://github.com/Westlake-AI/openmixup) visual representation learning toolbox.
+* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) toolbox.
