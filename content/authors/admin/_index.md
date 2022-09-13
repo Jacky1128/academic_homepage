@@ -38,4 +38,5 @@ In the summer of 2022, I fortunately became a research intern at [CAIRI](https:/
 
 **News:**
 
+* **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851).
 * **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup).
