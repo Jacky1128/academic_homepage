@@ -33,9 +33,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * OpenMixup visual representation Learning toolbox.
-        * Mixup-related data augmentation methods.
-        * Self-supervised representation learning.
+        * Self-supervised learning.
+        * Mixup data augmentation methods.
+        
 
   - title: Research Intern
     company: Prof. Xinggang Wang, Huazhong University of Science and Technology
