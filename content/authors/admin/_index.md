@@ -7,6 +7,9 @@ interests:
   - Cross-disciplinary AI
   - Data efficient visual representation learning
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=CEJ4pugAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Jacky1128
