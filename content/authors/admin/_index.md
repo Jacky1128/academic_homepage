@@ -16,7 +16,7 @@ social:
     label: ""
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/zedong_research
+    link: https://twitter.com/JackyZedong
   - icon: envelope
     icon_pack: fas
     link: mailto:jackywang28@outlook.com
@@ -35,11 +35,11 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within self-supervised learning, data augmentation methods and AI for science. Currently, I am a research intern (remote) at  [CAIRI AI Lab](https://github.com/Westlake-AI) ([Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on masked image modeling and mixup-related techniques. My academic goal is to do solid and interpretable AI research. \
+I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within AI for science, self-supervised learning and data augmentation strategies. Currently, I am a research intern at  [CAIRI AI Lab](https://github.com/Westlake-AI) ([Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on mixup-related augmentation methods and masked image modeling. My academic goal is to do solid and interpretable AI research. \
 \
 In the summer of 2022, I fortunately became a research intern at CAIRI. Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS) during 2021's summer. From 2020 to 2021, I conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
 
 **News:**
 
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup).
+* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) (262 stars).
