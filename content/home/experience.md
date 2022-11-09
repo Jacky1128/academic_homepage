@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Academic Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -32,9 +32,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Self-supervised learning.
-        * Mixup data augmentation methods.
+  
+        * Mixup-related data augmentation methods.
+        * Visual Backbone Architecture Design.
+        * AI for Science.
         
 
   - title: Research Intern
@@ -43,11 +44,11 @@ experience:
     company_logo: 
     location: Wuhan, Hubei, China
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
         
-        * Few-shot semantic segmentation research.
+        * Few-shot Semantic Segmentation.
      
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
@@ -59,8 +60,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Semantic segmentation research under Dr. Bin Fu.
-        * Computer vision model configuration.
+        * Semantic Segmentation.
+        * Vision model configuration.
+        * Visual data sifting.
    
   - title: Research Intern (remote)
     company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences

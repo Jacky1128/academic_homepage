@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Projects (coming soon)
-subtitle: 'some deep learning projects with code'
+subtitle: 'Deep learning projects with code'
 
 content:
   # Page type to display. E.g. project.
