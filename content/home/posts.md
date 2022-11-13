@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Academic Blog
+title: Academic Related
 subtitle:
 
 content:

@@ -34,8 +34,8 @@ experience:
         Responsibilities include:
   
         * Mixup-related data augmentation methods.
-        * Visual Backbone Architecture Design.
-        * AI for Science.
+        * Visual backbone architecture design.
+        * AI for sgRNA gene editing applications.
         
 
   - title: Research Intern
@@ -48,7 +48,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Few-shot Semantic Segmentation.
+        * Few-shot semantic segmentation.
      
   - title: Visiting Student
     company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
@@ -60,12 +60,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Semantic Segmentation.
+        * Semantic segmentation.
         * Vision model configuration.
         * Visual data sifting.
    
   - title: Research Intern (remote)
-    company: Key Laboratory of Digital Earth Science, Chinese Academy of Sciences
+    company: Key Laboratory of Digital Earth Science, Aerospace Information Research Institute, Chinese Academy of Sciences
     company_url: 'http://www.digitalearthlab.com.cn/'
     company_logo: 
     location: Beijing, China
@@ -74,8 +74,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Independent remote sensing building semantic segmentation research under Dr. Xiaoping Du. (second stage)
-        * Machine learning & deep learning rudiment study. (first stage)
+        * High resolution remote sensing building semantic segmentation.
 
 
 design:
