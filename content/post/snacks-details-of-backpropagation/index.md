@@ -1,6 +1,6 @@
 ---
-title: "[Details] From Jacobian to Backpropagation"
-subtitle: Coming soon
+title: Research Proposal
+subtitle: Research proposal for admission of Westlake University
 date: 2022-04-14T10:21:33.473Z
 draft: false
 featured: false
