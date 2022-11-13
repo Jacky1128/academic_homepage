@@ -6,8 +6,10 @@ draft: false
 featured: false
 authors:
   - ZedongWang
-tags: []
-categories: []
+tags:
+  - Westlake
+categories:
+  - Westlake
 image:
   filename: featured
   focal_point: Smart
