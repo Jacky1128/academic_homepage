@@ -6,10 +6,8 @@ draft: false
 featured: false
 authors:
   - ZedongWang
-tags:
-  - Snacks
-categories:
-  - Snacks
+tags: []
+categories: []
 image:
   filename: featured
   focal_point: Smart
