@@ -28,7 +28,7 @@ experience:
     company_url: 'https://github.com/Westlake-AI'
     company_logo: 
     location: Hangzhou, Zhejiang, China
-    date_start: '2022-07-01'
+    date_start: '2022-07-18'
     date_end: ''
     description: |2-
         Responsibilities include:
