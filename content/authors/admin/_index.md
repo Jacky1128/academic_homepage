@@ -28,7 +28,7 @@ organizations:
     url: https://www.hust.edu.cn/
 education:
   courses:
-    - course: B.Eng in Electronics Information Engineering
+    - course: B.Eng. in Electronics Information Engineering
       institution: Huazhong University of Science and Technology
       year: 2023
 email: jackywang28@outlook.com
