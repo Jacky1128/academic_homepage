@@ -23,7 +23,7 @@ If the visual recognition task does not change significantly, then neither autom
 
 ### **Deep Architecture Design**
 
-How to learn contextual and robust features effectively is the main theme of visual representation learning. We categorize two types of significant operations that are bound up with the expression capacities: **regionality perception** and **context aggregation**. Here, we assume the input feature $X$ and the output $Z$ are in the same shape $\mathbb{R}^{C\times H\times W}$.
+How to learn contextual and robust features effectively is the main theme of visual representation learning. We categorize two types of significant operations that are bound up with the expression capacities: *regionality perception* and *context aggregation*. Here, we assume the input feature $X$ and the output $Z$ are in the same shape $\mathbb{R}^{C\times H\times W}$.
 
 Since raw images are redundant signals, operations armed with local and structural inductive biases are fundamental components in DNNs, which ensure efficiency and stability during training. 
 
