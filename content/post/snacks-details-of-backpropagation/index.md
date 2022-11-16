@@ -45,3 +45,5 @@ The development of supervised pretraining is relatively clear. The ImageNet data
 #### 3.3 Expected Results and Impact
 
 ### 4. Conclusion
+
+Herein, we present a brief research proposal for the admission of Ph.D. program at Westlake University.
