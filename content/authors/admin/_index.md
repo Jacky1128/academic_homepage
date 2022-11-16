@@ -35,13 +35,13 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within deep learning, efficient visual representation learning and cross-disciplinary AI applications. Currently, I am a research intern at [CAIRI AI Lab](https://github.com/Westlake-AI) ([Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on mixup-related augmentation methods, efficient visual backbone architecture design and AI for sgRNA gene editing applications. My academic goal is to pursue solid AI research that makes positive changes to the community with passion and responsibility.\
+I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). My research interests are within deep learning, efficient visual representation learning and cross-disciplinary AI applications. Currently, I am a research intern at [CAIRI AI Lab](https://github.com/Westlake-AI) ([Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Lab), [Westlake University](https://en.westlake.edu.cn/) focusing on efficient visual backbone architecture design, mixup-related augmentation methods and AI for sgRNA gene editing applications. My academic goal is to pursue solid AI research that makes positive changes to the community with passion and responsibility.\
 \
-Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). From 2020 to 2021, I conducted an internship (remote) at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
+Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). From 2020 to 2021, I conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
 
 **News:**
 
 * **11/2022**   [Research Proposal](https://zedongwang.netlify.app/post/snacks-details-of-backpropagation/) for Ph.D. admission.
 * **11/2022**   [Efficient Multi-order Gated Aggregation Network.](https://arxiv.org/abs/2211.03295)
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) [291 stars].
+* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) (291 stars).
