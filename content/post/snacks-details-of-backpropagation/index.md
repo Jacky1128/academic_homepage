@@ -25,7 +25,8 @@ If the visual recognition task does not change significantly, then neither autom
 
 How to learn contextual and robust features effectively is the main theme of visual representation learning. We categorize two types of significant operations that are bound up with the expression capacities: *regionality perception* and *context aggregation*. Here, we assume the input feature $X$ and the output $Z$ are in the same shape $\mathbb{R}^{C\times H\times W}$.
 
-Since raw images are redundant signals, operations armed with local and structural inductive biases are fundamental components in DNNs, which ensure efficiency and stability during training. 
+Since raw images are redundant signals, operations armed with local and structural inductive biases are fundamental components in DNNs, which ensure efficiency and stability during training. We summarize these operations and network modules that \textit{statically} extract contextual features as \textit{regionality perception} and define it as $Z = \mathcal{S}(X, W)$, where $\mathcal{S}(\cdot,\cdot)$ can be an arbitrary binary operator (\textit{e.g.,} dot-product, convolution, element-wise product) and $W$ denotes the learnable weight.
+Instances of regionality perception are locally connected and weight-sharing on different positions, such as all kinds of convolutions and even non-parametric operations like pooling.
 
 ### 3. **Pretraining**
 
