@@ -61,4 +61,4 @@ The development of supervised pretraining is relatively clear. The ImageNet data
 
 ## 4. Conclusion
 
-Herein, I present a summerized research proposal towards efficient visual representation learning for my admission of Ph.D. program at Westlake University. Due to content limitations, I decide to mainly focus on just one direction. What I want to emphasize here is that I am willing and desired to pursue constructive cross-disciplinary AI research (e.g. AI for Science) apart from computer vision in the upcoming research career at Westlake University. 
+Herein, I present a summerized research proposal towards efficient visual representation learning for my admission of Ph.D. program at Westlake University. Due to content limitations, I decide to mainly focus on just one direction. What I want to emphasize here is that I am willing and desired to pursue constructive cross-disciplinary AI research (e.g. AI for Science) apart from computer vision in my upcoming research career at Westlake University.
