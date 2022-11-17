@@ -36,7 +36,7 @@ Instances of *regionality perception* are locally connected and weight-sharing o
 
 #### 2.1.2 Context Aggregation
 
-Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for sound representation learning. Canonical CNNs tend to employ deep stacks of regionality perception modules to passively attain increasing theoretical receptive fields. 
+Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for sound representation learning. Canonical CNNs tend to employ deep stacks of regionality perception modules to passively attain increasing theoretical receptive fields. However, such designs might be computationally inefficient and exhibit strong inability for discriminative self-relevant context recognition.
 
 ### 2.2 Methodology
 
