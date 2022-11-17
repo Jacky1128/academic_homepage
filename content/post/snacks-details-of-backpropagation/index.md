@@ -21,7 +21,7 @@ Deep Neural Networks (DNNs) have been the de facto infrastructure in visual repr
 
 Despite the remarkable advance of deep architectures in the past decade, there are still limitations of existing visual recognition pipelines, where the fundamental challenges to deal with **high image-inherent semantic sparsity** have not been well addressed. In particular, digital images are optical signals captured by sensors comprising numerous pixels as basic elements. These signals are able to reflect the real-world scenarios objectively, but accordingly own low information as well as semantic density. Correspondingly, natural language as a type of human-created data enjoys high intrinsic semantic density and expression efficiency, which has largely facilitated the development of NLP.
 
-As aforementioned, the key for this problem is to improve the utilization of sparse data semantics. Accordingly, possible breakthroughs to the visual representation sparsity can be broadly divided into two aspects: **Efficient Deep Architecture Design (model-end)** and **Visual Pre-Training** **(data-end)**. 
+Therefore, the key for this problem is to improve the utilization of sparse data semantics. Accordingly, possible breakthroughs to the visual representation sparsity can be broadly divided into two aspects: **Efficient Deep Architecture Design (model-end)** and **Visual Pre-Training** **(data-end)**. 
 
 ## **2. Efficient Deep Architecture Design**
 
