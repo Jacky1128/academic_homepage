@@ -63,4 +63,4 @@ In addition to sole supervised and unsupervised pretraining, there is a class of
 
 ## **4. Conclusion**
 
-Herein, I present a summerized research proposal towards efficient visual representation learning for my admission of Ph.D. program at Westlake University. Due to content limitations, I decide to mainly focus on the most familiar computer vision. What I want to emphasize here is that I am willing and desired to pursue constructive cross-disciplinary AI research (e.g. AI for Science) in my research career at Westlake University.
+Herein, I present a summerized research proposal towards efficient visual representation learning for my admission of Ph.D. program at Westlake University. Due to content limitations, I decide to mainly focus on the most familiar computer vision. What I want to emphasize here is that I am willing and desired to pursue constructive cross-disciplinary AI research (e.g. AI for Science) in my research career at Westlake University. I do believe that with my research skills and experience and attitude in deep learning, I am capable of making positive contributions to cross-disciplinary AI research as well. 
