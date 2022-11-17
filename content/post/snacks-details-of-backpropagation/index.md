@@ -42,8 +42,8 @@ Apart from *static* neighborhood correlations, high-level semantic context model
    $ O = \mathcal{S}(\mathcal{F}*(X), \mathcal{G}*(X)),$
 
 
-where $\mathcal{F}{\phi}(X)$ *and* $\mathcal{G}_{\psi}(X)$ are the aggregation and context branches with different parameters. Optionally, the output can be transformed to the input dimension by a linear projection, $Z = OW*{O}$.*
-iIn contrast to *regionality perception*, *context aggregation* modules model the importance of each position on $X$ by the aggregation branch $\mathcal{F}{\phi}(X)$ and reweights the embedded feature from the context branch $\mathcal{G}_{\psi}(X)$ by $\mathcal{S}(\cdot,\cdot)$. Consequently, context aggregation can be viewed as a prototype operation for various mainstream modules by designating different designs $\mathcal{S}(\cdot,\cdot)$, $\mathcal{F}(\cdot)$, and $\mathcal{G}(\cdot)$. 
+where $\mathcal{F}{\phi}(X)$ and $\mathcal{G}_{\psi}(X)$ are the aggregation and context branches with different parameters. Optionally, the output can be transformed to the input dimension by a linear projection, $Z = OW*{O}$.*
+In contrast to *regionality perception*, *context aggregation* modules model the importance of each position on $X$ by the aggregation branch $\mathcal{F}{\phi}(X)$ and reweights the embedded feature from the context branch $\mathcal{G}_{\psi}(X)$ by $\mathcal{S}(\cdot,\cdot)$. Consequently, context aggregation can be viewed as a prototype operation for various mainstream modules by designating different designs $\mathcal{S}(\cdot,\cdot)$, $\mathcal{F}(\cdot)$, and $\mathcal{G}(\cdot)$. 
 
 ### 2.2 Methodology
 
