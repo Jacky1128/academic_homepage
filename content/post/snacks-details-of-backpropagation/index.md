@@ -40,7 +40,6 @@ Apart from *static* neighborhood correlations, high-level semantic context model
 
 \begin{equation}
     O = \mathcal{S}\big(\mathcal{F}*{\phi}(X), \mathcal{G}*{\psi}(X)\big),
-    \vspace{-0.40em}
 \end{equation}
 
 ### 2.2 Methodology
