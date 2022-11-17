@@ -36,7 +36,7 @@ Instances of *regionality perception* are locally connected and weight-sharing o
 
 ### 2.1.2 Context Aggregation
 
-Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for visual recognition. 
+Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for representation learning. 
 
 ### 2.2 Methodology
 
