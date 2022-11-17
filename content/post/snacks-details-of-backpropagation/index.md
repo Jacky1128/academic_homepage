@@ -39,7 +39,7 @@ Instances of *regionality perception* are locally connected and weight-sharing o
 Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for sound representation learning. Canonical CNNs tend to employ deep stacks of regionality perception modules to passively attain increasing theoretical receptive fields. However, such designs might be computationally inefficient and exhibit strong inability for discriminative self-relevant context recognition. To tackle this dilemma, *context aggregation* modules were proposed to *adaptively* emphasize the underlying contextual information and discard trivial redundancies of input feature. Formally, we summarize context aggregation as a family of network components that adaptively capture long-range interactions between two embedded features:
 
 
-   $ O = \mathcal{S}\big(\mathcal{F}*{\phi}(X), \mathcal{G}*{\psi}(X)\big),$
+   $ O = \mathcal{S}\big(\mathcal{F}*(X), \mathcal{G}*(X)\big),$
 
 
 where $\mathcal{F}*{\phi}(\cdot)$ and $\mathcal{G}*{\psi}(\cdot)$ are the aggregation and context branches with parameters $\phi$ and $\psi$. Optionally, the output can be transformed to the input dimension by a linear projection, $Z = OW*{O}$.*
