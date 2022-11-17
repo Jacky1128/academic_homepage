@@ -1,5 +1,5 @@
 ---
-title: Research Proposal
+title: Research Proposal towards Efficient Visual Representation Learning
 subtitle: Efficient Visual Representation Learning
 date: 2022-04-14T10:21:33.473Z
 draft: false
@@ -15,9 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **E﻿fficient Visual Representation Learning**
-
-### 1. I﻿ntroduction
+## 1. I﻿ntroduction
 
 Deep Neural Networks (DNNs) have been the de facto infrastructure in visual representation learning, which plays a pivotal role in the context of computer vision. Inspired by mammalian visual systems, Convolutional Neural Networks (CNNs), are first designed to capture neighborhood correlations hidden in observed images with convolutional inductive bias and nonlinear activations. By stacking hierarchical convolutional layers, CNNs are able to attain theoretically increasing receptive field for underlying image pattern recognition. Apart from CNNs, Vision Transformers (ViTs) are recently emerged and has achieved promising results on ImageNet. Specifically, ViT splits input images into non-overlapping fixed-size patches as visual tokens to capture long-range feature interactions among these tokens by self-attention mechanism. By introducing regional inductive bias, ViT and its variants have been extended to multifarious vision benchmarks.
 
@@ -25,29 +23,29 @@ Despite the remarkable advance of deep architectures in the past decade, there a
 
 If the visual recognition task does not change significantly, then neither automatic design, nor the addition of more complex computational modules, will be able to push computer vision to new heights. Possible changes to the visual recognition task can be broadly divided into two parts: input and output. The possible changes in the input part, such as event camera, may change the status quo of regularized processing of static or temporal visual signals, giving rise to specific neural network structures; the possible changes in the output part are some kind of framework for unifying various recognition tasks, which may allow visual recognition to move from independent tasks to a grand unification, thus giving rise to a network architecture more suitable for visual prompts. If there is a trade-off between convolution and transformer, then transformer has more potential, mainly because it can unify different data modalities, especially text and image, which are the two most common and important modalities. Interpretability is an important research direction, but I am personally pessimistic about the interpretability of deep neural networks, and the success of NLP is not based on interpretability, but on overfitting a large corpus. This may not be too good a sign for real AI.
 
-### 2. **Efficient Deep Architecture Design**
+## 2. **Efficient Deep Architecture Design**
 
-#### 2.1 Preliminary
+### 2.1 Preliminary
 
 How to learn contextual and robust features effectively is the main theme of visual representation learning. I categorize two types of significant operations that are bound up with the expression capacities: *regionality perception* and *context aggregation*. Here, we assume the input feature $X$ and the output $Z$ are in the same shape $\mathbb{R}^{C\times H\times W}$.
 
 Since raw images are redundant signals, operations armed with local and structural inductive biases are fundamental components in DNNs, which ensure efficiency and stability during training. I would summarize these operations and network modules that *statically* extract contextual features as *regionality perception* and define it as $Z = \mathcal{S}(X, W)$, where $\mathcal{S}(\cdot,\cdot)$ can be an arbitrary binary operator (e.g., dot-product, convolution, element-wise product) and $W$ denotes the learnable weight.
 Instances of regionality perception are locally connected and weight-sharing on different positions, such as all kinds of convolutions and even non-parametric operations like pooling. The convolution operation is the most commonly used and thoroughly studied, balancing the efficiency vs. accuracy trade-off. Convolution can be written as $Z = \mathcal{S}(X, K)$, where $\mathcal{S}(\cdot,\cdot)$ is the convolution and the kernel $K\in \mathbb{R}^{M\times C\times k\times k}$ consists $M$ filters.
 
-#### 2.2 Methodology
+### 2.2 Methodology
 
-#### 2.3 Expected Results and Impact
+### 2.3 Expected Results and Impact
 
-### 3. Visual Pre-Training
+## 3. Visual Pre-Training
 
-#### 3.1 Preliminary
+### 3.1 Preliminary
 
 The development of supervised pretraining is relatively clear. The ImageNet dataset, which laid the foundation for deep learning, was available long before the explosion of deep learning and is still in use today. the full ImageNet dataset of over 15 million has not been surpassed by other non-classified datasets and is therefore still the most commonly used data for supervised pretraining. Another reason is that image-level classification data introduces less bias and is therefore more favorable for downstream migration - further bias reduction is unsupervised pretraining. Unsupervised pretraining, on the other hand, has undergone a tortuous development. Starting from 2014, the first generation of geometry-based unsupervised pretraining methods emerged, such as judgment based on patched position relationships, based on image rotation, etc., while generative methods also evolved (generative methods can be traced back to an earlier period and are not repeated here). Unsupervised pre-training methods at this time are still significantly weaker than supervised pre-training methods. By 2019, contrast learning methods, with technical improvements, show the potential to outperform supervised pretraining methods on downstream tasks for the first time, and unsupervised learning really becomes the focus of the CV community. And starting in 2021, the rise of visual transformer spawned a special class of generative tasks, namely MIM, which gradually became the ruling method. In addition to purely supervised and unsupervised pretraining, there is a class of methods in between, namely cross-modal pretraining. It uses weakly paired images and text as training material, avoiding bias from image supervised signals on the one hand, and learning weak semantics better than unsupervised methods on the other. Moreover, with the addition of transformer, the integration of visual and natural language is more natural and reasonable.
 
-#### 3.2 Methodology
+### 3.2 Methodology
 
-#### 3.3 Expected Results and Impact
+### 3.3 Expected Results and Impact
 
-### 4. Conclusion
+## 4. Conclusion
 
 Herein, I present a summerized research proposal towards efficient visual representation learning for the admission of Ph.D. program at Westlake University.
