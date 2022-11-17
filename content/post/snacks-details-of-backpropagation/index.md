@@ -45,7 +45,9 @@ Apart from *static* neighborhood correlations, high-level semantic context model
 where $\mathcal{F}{\phi}(X)$ and $\mathcal{G}{\psi}(X)$ are the aggregation and context branches with different parameters. Optionally, the output can be transformed to the input dimension by a linear projection, $Z = OW{\phi}$. In contrast to regionality perception, context aggregation modules model the importance of each position on $X$ by the aggregation branch $\mathcal{F}{\phi}(X)$ and reweights the embedded feature from the context branch $\mathcal{G}{\psi}(X)$ by $\mathcal{S}(\cdot,\cdot)$. Consequently, context aggregation can be viewed as a prototype operation for different modules by designating diverse instantiations of $\mathcal{S}(\cdot,\cdot)$, $\mathcal{F}(\cdot)$, and $\mathcal{G}(\cdot)$. 
 
 ### 2.2 Methodology
-Notably, the importance of each position on above-mentioned $X$ is calculated by global interactions of all other positions in $\mathcal{F}_{\phi}(\cdot)$ with a dot-product. This operation (e.g. self-attention) takes quadratic time and computational complexity leading to large computational overheads. 
+Notably, the importance of each position on above-mentioned $X$ is calculated by global interactions of all other positions in $\mathcal{F}_{\phi}(\cdot)$ with a dot-product. This operation (e.g. self-attention) takes quadratic time and computational complexity leading to large computational overheads. T﻿o this end, how to perform context aggregation efficiently would be one of the main themes of my research. 
+
+As my first try,
 
 ### 2.3 Expected Results and Impact
 
