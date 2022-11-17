@@ -49,7 +49,7 @@ where $\mathcal{F}{\phi}(X)$ and $\mathcal{G}{\psi}(X)$ are the aggregation and 
 Notably, the importance of each position on above-mentioned $X$ is calculated by global interactions of all other positions in $\mathcal{F}_{\phi}(\cdot)$ with a dot-product. This operation (e.g. self-attention mechanism) takes quadratic time and computational complexity leading to large computational overheads. T﻿o this end, how to perform context aggregation efficiently would be one of the main themes of my research.
 
 I would to try to address this issue from two directions: **aggregation efficiency** and **region-context unity**.
-As my first try, I introduce a Multi-order Gated Aggregation (Moga)
+As my first try, I introduce a Multi-order Gated Aggregation (Moga), where robust local representations are efficiently modeled and contexutalized in parellel mimicing what our human visual systems have done.
 
 ### 2.3 Expected Results and Impact
 
