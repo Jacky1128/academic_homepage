@@ -29,12 +29,12 @@ Therefore, the key for this problem is to improve the utilization of sparse data
 
 As aforementioned, how to learn robust contextual image patterns effectively is one of the main theme of high-quality visual representation learning. In this section, I first categorize two types of significant operations that are bound up with the expression capacities: *regionality perception* and *context aggregation*. Here, we assume the input feature $X$ and the output $Z$ are in the same shape $\mathbb{R}^{C\times H\times W}$. 
 
-### 2.1.1 Regionality Perception
+#### 2.1.1 Regionality Perception
 
 Since raw images are redundant signals, operations armed with local and structural inductive biases are fundamental components in DNNs, which ensure efficiency and stability during training. I would summarize these operations and network modules that *statically* extract contextual features as *regionality perception* and define it as $Z = \mathcal{S}(X, W)$, where $\mathcal{S}(\cdot,\cdot)$ can be an arbitrary binary operator (e.g., dot-product, convolution, element-wise product) and $W$ denotes the learnable weight.
-Instances of *regionality perception* are locally connected and weight-sharing on different positions, such as all kinds of convolutions and even non-parametric operations like pooling. The convolution operation is the most commonly used and thoroughly studied, balancing the efficiency vs. accuracy trade-off. Convolution can be written as $Z = \mathcal{S}(X, K)$, where $\mathcal{S}(\cdot,\cdot)$ is the convolution and the kernel $K\in \mathbb{R}^{M\times C\times k\times k}$ consists $M$ filters. To further boost the representation abilities, considerable efforts are spared to make convolution-based regionality perception lighter and more flexible. Some works tend to factorize vanilla convolution into depthwise (DW) and pointwise (PW) counterparts concerning the latency/accuracy trade-off.
+Instances of *regionality perception* are locally connected and weight-sharing on different positions, such as all kinds of convolutions and even non-parametric operations like pooling. The convolution operation is the most commonly used and thoroughly studied, balancing the efficiency vs. accuracy trade-off. For intance, a convolutional layer can be written as $Z = \mathcal{S}(X, K)$, where $\mathcal{S}(\cdot,\cdot)$ is the convolution and the kernel $K\in \mathbb{R}^{M\times C\times k\times k}$ consists $M$ filters. To further boost the representation abilities, considerable efforts are spared to make convolution-based regionality perception lighter and more flexible. Some works tend to factorize vanilla convolution into depthwise (DW) and pointwise (PW) counterparts concerning the latency/accuracy trade-off. 
 
-### 2.1.2 Context Aggregation
+#### 2.1.2 Context Aggregation
 
 Apart from *static* neighborhood correlations, high-level semantic context modelling is also vital for sound representation learning. 
 
