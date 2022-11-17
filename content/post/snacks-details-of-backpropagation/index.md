@@ -44,14 +44,12 @@ Apart from *static* neighborhood correlations, high-level semantic context model
 
 where $\mathcal{F}{\phi}(X)$ and $\mathcal{G}{\psi}(X)$ are the aggregation and context branches with different parameters. Optionally, the output can be transformed to the input dimension by a linear projection, $Z = OW{\phi}$. In contrast to regionality perception, context aggregation modules model the importance of each position on $X$ by the aggregation branch $\mathcal{F}{\phi}(X)$ and reweights the embedded feature from the context branch $\mathcal{G}{\psi}(X)$ by $\mathcal{S}(\cdot,\cdot)$. Consequently, context aggregation can be viewed as a prototype operation for different modules by designating diverse instantiations of $\mathcal{S}(\cdot,\cdot)$, $\mathcal{F}(\cdot)$, and $\mathcal{G}(\cdot)$. 
 
-### 2.2 Methodology
+### 2.2 Methodology and Expected Outcomes
 
 Notably, the importance of each position on above-mentioned $X$ is calculated by global interactions of all other positions in $\mathcal{F}_{\phi}(\cdot)$ with a dot-product. This operation (e.g. self-attention mechanism) takes quadratic time and computational complexity leading to large computational overheads. T﻿o this end, how to perform context aggregation efficiently would be one of the main themes of my research.
 
 Inspired by human visual systems w﻿here human eyes perform ﻿egional sensing and global context perception simultaneously and efficiently, I would to attempt to address this issue from two directions: **aggregation efficiency** and **region-context unity**.
 As my first try, I design a Multi-order Gated Aggregation (Moga) in *Efficient Multi-order Gated Aggregation Network* with researchers from Prof. Stan Z. Li Lab, where robust local representations are efficiently modeled and contexutalized in parellel mimicing what our human visual systems have done. Along this line, I plan to dig deep in more efficient, unified and discriminative visual recognition architecture design in the upcoming research career at Westlake University. 
-
-### 2.3 Expected Results and Impact
 
 ## **3. Visual Pre-Training**
 
@@ -59,9 +57,7 @@ As my first try, I design a Multi-order Gated Aggregation (Moga) in *Efficient M
 
 The development of supervised pretraining is relatively clear. The ImageNet dataset, which laid the foundation for deep learning, was available long before the explosion of deep learning and is still in use today. the full ImageNet dataset of over 15 million has not been surpassed by other non-classified datasets and is therefore still the most commonly used data for supervised pretraining. Another reason is that image-level classification data introduces less bias and is therefore more favorable for downstream migration - further bias reduction is unsupervised pretraining. Unsupervised pretraining, on the other hand, has undergone a tortuous development. Starting from 2014, the first generation of geometry-based unsupervised pretraining methods emerged, such as judgment based on patched position relationships, based on image rotation, etc., while generative methods also evolved (generative methods can be traced back to an earlier period and are not repeated here). Unsupervised pre-training methods at this time are still significantly weaker than supervised pre-training methods. By 2019, contrast learning methods, with technical improvements, show the potential to outperform supervised pretraining methods on downstream tasks for the first time, and unsupervised learning really becomes the focus of the CV community. And starting in 2021, the rise of visual transformer spawned a special class of generative tasks, namely MIM, which gradually became the ruling method. In addition to purely supervised and unsupervised pretraining, there is a class of methods in between, namely cross-modal pretraining. It uses weakly paired images and text as training material, avoiding bias from image supervised signals on the one hand, and learning weak semantics better than unsupervised methods on the other. Moreover, with the addition of transformer, the integration of visual and natural language is more natural and reasonable.
 
-### 3.2 Methodology
-
-### 3.3 Expected Results and Impact
+### 3.2 Methodology and Expected Outcomes
 
 ## 4. Conclusion
 
