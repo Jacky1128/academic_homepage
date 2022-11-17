@@ -1,6 +1,6 @@
 ---
 title: Research Proposal towards Efficient Visual Representation Learning
-subtitle: Efficient Visual Representation Learning
+subtitle: ""
 date: 2022-04-14T10:21:33.473Z
 draft: false
 featured: false
