@@ -63,6 +63,8 @@ Unlike pure supervised and unsupervised pretraining paradigm, there is a class o
 
 ### 3.2 Methodology and Expected Outcomes
 
+From a practical application point of view, it is worth trying to combine different pre-training tasks. That is, a mixed dataset containing a small amount of labeled data, a medium amount of paired graphical data, and a large amount of image data without any label should be collected and pre-training methods should be designed on such a mixed dataset.
+
 ## **4. Conclusion**
 
 Herein, I present a summerized research proposal towards efficient visual representation learning for my admission of Ph.D. program at Westlake University. Due to content limitations, I decide to mainly focus on the most familiar the context of computer vision. What I would like to emphasize here is that **I am also willing and desired to pursue constructive cross-disciplinary AI research** (e.g. AI for Science) in my research career at Westlake University. I do believe that with my research attitude, skills and experience in deep learning, I am capable of making positive contributions to cross-disciplinary AI research as well.
