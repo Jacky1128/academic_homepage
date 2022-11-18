@@ -44,4 +44,4 @@ Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wan
 * **11/2022**   [Research Proposal](https://zedongwang.netlify.app/post/snacks-details-of-backpropagation/) for Ph.D. admission.
 * **11/2022**   [Efficient Multi-order Gated Aggregation Network.](https://arxiv.org/abs/2211.03295)
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) (293 stars).
+* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) (294 stars).
