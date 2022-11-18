@@ -61,7 +61,7 @@ Unsupervised pretraining, on the other hand, has undergone a tortuous developmen
 
 Unlike pure supervised and unsupervised pretraining paradigm, there is a class of methods in between, namely cross-modal pretraining. It uses weakly paired images and text as training material, avoiding bias from image supervised signals on the one hand, and learning weak semantics better than unsupervised methods on the other. Moreover, with the addition of transformer, the integration of visual and natural language is more natural and reasonable.
 
-### 3.2 Methodology and Expected Outcomes
+### 3.2 Prospective Methodology and Expected Outcomes
 
 P﻿ractically, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets.
 
