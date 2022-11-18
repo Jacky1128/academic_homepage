@@ -4,7 +4,7 @@ role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
 bio: Student of deep learning.
 interests:
-  - Data efficient visual representation learning
+  - Efficient visual representation learning
   - Cross-disciplinary AI applications
 social:
   - icon: google-scholar
