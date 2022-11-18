@@ -72,7 +72,7 @@ However, such degradation-based approaches have an insurmountable bottleneck, **
 
 Moreover, there exists a non-negligible conflict between large-scale pre-training and target domain fine-tuning: large pre-trained models are inclined to perceive comprehensive distribution of observed data and pursue corresponding optimal solutions, while fine-tuning tend to target a specific domain. Thus, the larger the model size, the more difficult it is to achieve domain adaptation, especially for the scenarios with large domain gap. 
 
-it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets.
+In conclusion, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets. 
 
 ## **4. Conclusion**
 
