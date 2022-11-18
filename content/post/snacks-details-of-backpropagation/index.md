@@ -63,7 +63,7 @@ Unlike pure supervised and unsupervised pretraining paradigm, there is a class o
 
 ### 3.2 Prospective Methodology and Expected Outcomes
 
-Personally, I believe that unsupervised pre-training is the research direction that best reflects the essence of computer vision, i.e., learning from degradation. Degradation, in this case, refers to the removal of certain information that is already present from the image signal and requires the algorithm to recover this information. It is worth noting that the idea of visual pre-training is heavily influenced by natural language pre-training, but I believe that the two are fundamentally different and thus cannot be generalized.
+From my perspective, I believe that unsupervised pre-training is the research direction that best reflects the essence of computer vision, i.e., learning from degradation. Degradation, in this case, refers to the removal of certain information that is already present from the image signal and requires the algorithm to recover this information. It is worth noting that the idea of visual pre-training is heavily influenced by natural language pre-training, but I believe that the two are fundamentally different and thus cannot be generalized.
 
 P﻿ractically, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets.
 
