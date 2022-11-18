@@ -48,7 +48,7 @@ where $\mathcal{F}{\phi}(X)$ and $\mathcal{G}{\psi}(X)$ are the aggregation and 
 
 Notably, the importance of each position on above-mentioned $X$ is calculated by global interactions of all other positions in $\mathcal{F}_{\phi}(\cdot)$ with a dot-product. This operation (e.g. self-attention mechanism) takes quadratic time and computational complexity leading to large computational overheads. T﻿o this end, how to perform context aggregation efficiently would be one of the main themes of my research.
 
-Inspired by human visual systems w﻿here human eyes perform ﻿egional sensing and global context perception simultaneously and efficiently, I would attempt to address this issue from two directions: **aggregation efficiency** and **region-context unity**.
+Inspired by human visual systems w﻿here human eyes perform ﻿egional sensing and global context perception simultaneously and efficiently, I have planned to address this issue from two directions: **aggregation efficiency** and **region-context unity**.
 As my first try, I design a Multi-order Gated Aggregation (Moga) in *Efficient Multi-order Gated Aggregation Network* with researchers from Prof. Stan Z. Li Lab, where robust local representations are efficiently modeled and contexutalized in parellel mimicing what our human visual systems have done. Along this line, I plan to dig deep in more efficient, unified and discriminative visual recognition architecture following aforementioned aggregation efficiency and region-context unitydesign manner in the upcoming research career at Westlake University. 
 
 ## **3. Visual Pre-Training**
