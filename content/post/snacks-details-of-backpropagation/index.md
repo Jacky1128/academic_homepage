@@ -64,12 +64,11 @@ Unsupervised pretraining, on the other hand, has undergone a long-lasting p﻿ro
 
 Unlike pure supervised and unsupervised pretraining paradigm, there is a class of methods in between, namely cross-modal pretraining. It uses weakly paired images and text as training material, avoiding bias from image supervised signals on the one hand, and learning weak semantics better than unsupervised methods on the other. Moreover, with the addition of transformer, the integration of visual and natural language is more natural and reasonable.
 
-### 3.2 Prospective Methodology and Expected Outcomes
+### 3.2 Problem Analysis
 
 From my perspective,unsupervised visual pre-training might be  promising direction that best reflects the essence of computer vision, that is, **learning from degradation**. Specifically, natural language as  human-created data is semantically strong. However, image signals captured by objective sensors owns inherent low semantic density. Therefore, it is tough yet significant for visual recognition to boost the efficiency of data utilization rather than just conduct naive supervised learning. Degradation here refers to removal of partial information that is already presented and commands the model to recover it. Notice that the idea of visual pre-training is heavily influenced by natural language pre-training, but I believe that the two are fundamentally different and thus cannot be generalized. 
 
-However, all such degradation-based approaches have an insurmountable bottleneck, namely, **the conflict between degradation strength and semantic consistency**. Since there is no supervised signal and visual representation learning is completely dependent on degradation, the degradation must be strong enough; and when the degradation is strong enough, there is no guarantee that the images before and after degradation are semantically consistent, leading to pathological v
-isual pre-training outcomes.
+However, such degradation-based approaches have an insurmountable bottleneck, **the conflict between degradation strength and semantic consistency**. Since there is no supervised signal and the representation quality is solely dependent on degradation, the degradation level must be strong enough. Nonetheless, he images before and after degradation may not be semantically consistent, leading to pathological visual pre-training outcomes.  
 
 P﻿ractically, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets.
 
