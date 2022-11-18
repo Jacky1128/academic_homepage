@@ -63,7 +63,7 @@ Unlike pure supervised and unsupervised pretraining paradigm, there is a class o
 
 ### 3.2 Methodology and Expected Outcomes
 
-P﻿ractically, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of labeled data, a medium amount of paired graphical data, and a large amount of image data without any label should be collected and pre-training methods should be designed on such a mixed dataset.
+P﻿ractically, it is worth trying to combine all the above v﻿isual pre-training paradigms t﻿o tackle the unlimited semantic granularity. That is, a mixed dataset containing a small amount of p﻿recisely labeled data, a medium amount of paired graphical data, and a large amount of images without corresponding labels and specially-designed pre-training strategies should be equipped on such mixed datasets.
 
 ## **4. Conclusion**
 
