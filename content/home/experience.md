@@ -34,7 +34,7 @@ experience:
         Responsibilities include:
   
         * Mixup-related data augmentation methods.
-        * Visual backbone architecture design.
+        * Efficient visual backbone architecture design.
         * AI for sgRNA gene editing applications.
         
 
