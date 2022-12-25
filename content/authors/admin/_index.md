@@ -37,10 +37,10 @@ highlight_name: true
 ---
 I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). Currently, I am a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests are within efficient visual recognition and cross-disciplinary AI for science applications. My academic goal is to pursue solid AI research that makes positive changes to the community.\
 \
-Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). From 2020 to 2021, I conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS.
+Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS, from 2020 to 2021.
 
 **News:**
 
 * **11/2022**   [Efficient Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295)
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) 
-* **09/2022**   One of the direct contributors of [OpenMixup](https://github.com/Westlake-AI/openmixup) (317 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (319 stars).
