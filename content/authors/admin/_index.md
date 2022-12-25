@@ -2,7 +2,7 @@
 title: Zedong Wang
 role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
-bio: Student of deep learning.
+bio: Visiting student in CAIRI AI Lab at Westlake University.
 interests:
   - Efficient visual recognition
   - Cross-disciplinary AI applications
@@ -17,6 +17,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JackyZedong
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jacky-zedong-wang/
   - icon: envelope
     icon_pack: fas
     link: mailto:jackywang28@outlook.com
