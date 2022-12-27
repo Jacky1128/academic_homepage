@@ -31,7 +31,7 @@ organizations:
     url: https://www.hust.edu.cn/
 education:
   courses:
-    - course: B.Eng in Electronics Information Engineering
+    - course: B.Eng. in Electronics Information Engineering
       institution: Huazhong University of Science and Technology
       year: 2023
 email: jackywang28@outlook.com
@@ -46,6 +46,8 @@ Welcome to contact me about research and internship.
 
 **News:**
 
-* **11/2022**   Efficient Multi-order Gated Aggregation Network [[PDF](https://arxiv.org/abs/2211.03295)] [[Code](https://github.com/Westlake-AI/MogaNet)] [[Zhihu](https://zhuanlan.zhihu.com/p/582542948)] [[BibTeX](https://lupin1998.github.io/Files/arXiv_2022_MogaNet_bibtex)]
-* **09/2022**   OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning [[PDF](https://arxiv.org/abs/2209.04851)] [[Code](https://github.com/Westlake-AI/openmixup)]
+* **11/2022**   **Efficient Multi-order Gated Aggregation Network** 
+                   [[PDF](https://arxiv.org/abs/2211.03295)] [[Code](https://github.com/Westlake-AI/MogaNet)] [[Zhihu](https://zhuanlan.zhihu.com/p/582542948)] [[BibTeX](https://lupin1998.github.io/Files/arXiv_2022_MogaNet_bibtex)]
+* **09/2022**   **OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning** 
+                   [[PDF](https://arxiv.org/abs/2209.04851)] [[Code](https://github.com/Westlake-AI/openmixup)]
 * **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (324 stars).
