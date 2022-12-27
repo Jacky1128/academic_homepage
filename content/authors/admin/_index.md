@@ -42,6 +42,8 @@ I am a fourth-year undergraduate student in Electronics Information Engineering 
 \
 Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
 
+Welcome to contact me about research and internship.
+
 **News:**
 
 * **11/2022**   [Efficient Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295)
