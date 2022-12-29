@@ -2,7 +2,8 @@
 title: Zedong Wang
 role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
-bio: Visiting student in CAIRI AI Lab at Westlake University.
+bio: Visiting student in CAIRI AI Lab at Westlake University, focusing on
+  efficient visual representation learning.
 interests:
   - Efficient visual recognition
   - Cross-disciplinary AI applications
@@ -46,6 +47,6 @@ Welcome to contact me about research and internship.
 
 **News:**
 
-* **11/2022**   [Efficient Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295)
+* **11/2022   Efficient Multi-order Gated Aggregation Network** [[PDF](https://arxiv.org/abs/2211.03295)]﻿ [[Code](https://github.com/Westlake-AI/MogaNet)] [[Toolbox](https://github.com/Westlake-AI/openmixup)] [[Zhihu](https://zhuanlan.zhihu.com/p/582542948)]
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) 
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (327 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (329 stars).
