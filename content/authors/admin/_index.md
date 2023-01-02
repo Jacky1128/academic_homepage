@@ -49,4 +49,6 @@ Welcome to contact me about research and internship.
 
 * **11/2022   Efficient Multi-order Gated Aggregation Network** [[PDF](https://arxiv.org/abs/2211.03295)]﻿ [[Code](https://github.com/Westlake-AI/MogaNet)] [[Toolbox](https://github.com/Westlake-AI/openmixup)] [[Zhihu](https://zhuanlan.zhihu.com/p/582542948)]
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) 
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (330 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (331 stars).
+
+
