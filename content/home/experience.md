@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Visiting Student
     company: CAIRI AI Lab, Westlake University
     company_url: 'https://github.com/Westlake-AI'
     company_logo: 
@@ -34,8 +34,8 @@ experience:
         Responsibilities include:
   
         * Mixup-related data augmentation methods.
-        * Efficient visual backbone architecture design.
-        * AI for sgRNA gene editing applications.
+        * Efficient deep visual architecture design.
+        * AI+ applications in CRISPR-based gene editing.
         
 
   - title: Research Intern
