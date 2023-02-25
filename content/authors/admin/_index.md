@@ -39,9 +39,9 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a fourth-year undergraduate student in Electronics Information Engineering at [HUST](http://english.hust.edu.cn/). Currently, I am a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests are within efficient deep visual representation learning and AI+ cross-disciplinary applications. My academic goal is to pursue solid AI research that makes positive changes to the community. \
+I am currently a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests are within efficient deep visual representation learning and AI+ cross-disciplinary applications. My academic goal is to pursue solid AI research that makes positive changes to the community. \
 \
-Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at HUST. In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
+Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](http://english.hust.edu.cn/). In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
 
 Welcome to contact me about research and internship.
 
