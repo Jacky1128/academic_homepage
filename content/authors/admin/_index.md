@@ -47,6 +47,6 @@ Welcome to contact me about research and internship.
 
 **News:**
 
-* **11/2022**   [Efficient Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295)
+* **11/2022**   [Efficient Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295) submitted to ICCV2023
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) 
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (367 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (368 stars).
