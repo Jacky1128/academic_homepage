@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: Visiting student in CAIRI AI Lab under Prof. Stan Z. Li at Westlake University, focusing on
   efficient visual representation learning.
 interests:
-  - Efficient visual recognition
-  - AI+ Cross-disciplinary applications
+  - Visual Representation Learning
+  - AI+ Cross-disciplinary Applications
 social:
   - icon: google-scholar
     icon_pack: ai
