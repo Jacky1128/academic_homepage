@@ -39,7 +39,7 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am currently a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests include deep visual representation learning, especially for deep network architecture design as well as self-supervised learning, and AI+ cross-disciplinary applications. My goal is to pursue solid AI research that makes positive changes to the community. \
+I am currently a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests include efficient deep visual representation learning, especially for deep network architecture design as well as self-supervised learning, and AI+ cross-disciplinary applications. My goal is to pursue solid AI research that makes positive changes to the community. \
 \
 Previously, I worked on few-shot semantic segmentation under [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](http://english.hust.edu.cn/). In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
 
@@ -49,4 +49,4 @@ Welcome to contact me about research and internship.
 
 * **11/2022**   [MogaNet: Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295).
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (375 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (377 stars).
