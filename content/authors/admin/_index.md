@@ -29,7 +29,7 @@ social:
     link: files/cv.pdf
 organizations:
   - name: Huazhong University of Science and Technology (HUST)
-    url: https://www.hust.edu.cn/
+    url: https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology
 education:
   courses:
     - course: B.Eng. in Electronic and Information Engineering
@@ -49,4 +49,4 @@ Welcome to contact me about research and internship.
 
 * **11/2022**   [MogaNet: Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295).
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (380 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (381 stars).
