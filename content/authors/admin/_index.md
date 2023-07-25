@@ -3,10 +3,10 @@ title: Zedong Wang
 role: Undergrad. student in Electronics Information Engineering
 avatar_filename: avatar.jpg
 bio: Visiting student in CAIRI AI Lab under Prof. Stan Z. Li at Westlake University, focusing on
-  visual representation learning.
+  representation learning and AI for Science research.
 interests:
-  - Visual Representation Learning
-  - Self-supervised Learning
+  - Representation Learning
+  - AI for Science
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -50,4 +50,4 @@ Welcome to contact me about research and internship.
 * **05/2023**   [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/abs/2111.15454).
 * **11/2022**   [MogaNet: Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295).
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (435 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (452 stars).
