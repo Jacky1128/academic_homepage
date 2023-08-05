@@ -39,7 +39,7 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I completed my B.Eng. in Electronic and Information Engineering (Machine Intelligence) at [Huazhong University of Science & Technology (HUST)](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). I am currently a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Professor Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests include visual representation learning, especially for efficient network architecture design as well as self-supervised learning, and AI for science applications. My academic goal is to pursue solid AI research that makes positive changes to the community. \
+I completed my B.Eng. in Electronic and Information Engineering (Machine Intelligence) at [Huazhong University of Science & Technology (HUST)](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). I am currently a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Professor Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests include representation learning, especially for efficient network architecture design as well as self-supervised pre-training, and AI for Science applications. My academic goal is to pursue solid AI research that makes positive changes to the community. \
 \
 Previously, I worked on few-shot semantic segmentation supervised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
 
@@ -50,4 +50,4 @@ Welcome to contact me about research and internship.
 * **05/2023**   [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/abs/2111.15454).
 * **11/2022**   [MogaNet: Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295).
 * **09/2022**   [OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851) submitted to JMLR.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (452 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (459 stars).
