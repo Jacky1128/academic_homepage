@@ -39,7 +39,7 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I completed my B.Eng. in Electronic and Information Engineering (Machine Intelligence) at [Huazhong University of Science & Technology (HUST)](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). Currently, I am [CSIG](https://www.csig.org.cn) student member and a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Prof. Stan Z. Li (IEEE Fellow, IAPR Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests center around visual representation learning and AI for Life Science applications. My academic goal is to pursue solid AI research that exerts positive impact on the community. \
+I completed my B.Eng. in Electronic and Information Engineering (Machine Intelligence) at [Huazhong University of Science & Technology (HUST)](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). Currently, I am [CSIG](https://www.csig.org.cn) student member and a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Prof. Stan Z. Li (IEEE Fellow, IAPR Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests center around visual representation learning from 3 levels: (i) Data-level: Data mixing augmentation & label efficient learning. (ii) Network-level: Efficient Network Architecture Design. (iii) Framework-level: Vector Quantization-based representation learning & pre-training. \
 \
 Previously, I worked on few-shot semantic segmentation supervised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ) at [HUST](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). I also conducted an internship at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).
 
@@ -49,7 +49,7 @@ Welcome to contact me about research and internship.
 * **10/2023**   [SemiReward: A General Reward Model for Semi-supervised Learning](https://arxiv.org/abs/2310.03013).
 * **09/2023**   One paper [OpenSTL](https://arxiv.org/abs/2306.11249) is accepted by NeurIPS 2023.
 * **06/2023**   Honored to be [CSIG](https://www.csig.org.cn) Student Member.
-* **05/2023**   [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/abs/2111.15454).
-* **11/2022**   [MogaNet: Multi-order Gated Aggregation Network](https://arxiv.org/abs/2211.03295).
-* **09/2022**   [OpenMixup: A Comprehensive Mixup Toolbox and Benchmark for Visual Representation Learning](https://arxiv.org/abs/2209.04851).
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (500 stars).
+* **05/2023**   [SAMix](https://arxiv.org/abs/2111.15454): The first mixup algorithm that solves the 2 remaining challenges within data mixing at once for various scenarios.
+* **11/2022**   [MogaNet](https://arxiv.org/abs/2211.03295): A novel pure convolutional architecture through the lens of multi-order game-theoretic interaction.
+* **09/2022**   [OpenMixup](https://arxiv.org/abs/2209.04851): The first comprehensive mixup benchmarking study for visual classification.
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) (503 stars).
