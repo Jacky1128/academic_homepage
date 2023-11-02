@@ -52,4 +52,4 @@ Welcome to contact me about research and internship.
 * **05/2023**   New preprint [SAMix](https://arxiv.org/abs/2111.15454): The first mixup algorithm that solves the 2 remaining challenges within data mixing at once for various scenarios.
 * **11/2022**   New preprint [MogaNet](https://arxiv.org/abs/2211.03295): A novel pure convolutional architecture through the lens of multi-order game-theoretic interaction.
 * **09/2022**   New preprint [OpenMixup](https://arxiv.org/abs/2209.04851): The first comprehensive mixup benchmarking study for visual classification.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) codebase (507 stars).
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) codebase (508 stars).
