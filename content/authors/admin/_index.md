@@ -1,9 +1,9 @@
 ---
 title: Zedong Wang
-role: Undergrad. student in Electronics Information Engineering
+role: Visiting student at Westlake University
 avatar_filename: avatar.jpg
-bio: Visiting student in CAIRI AI Lab under Prof. Stan Z. Li at Westlake University, focusing on
-  representation learning and AI for Science research.
+bio: Visiting student in CAIRI AI Lab under Chair Prof. Stan Z. Li at Westlake University, focusing on
+  visual representation learning and AI for Genomics.
 interests:
   - Representation Learning
   - AI for Science
