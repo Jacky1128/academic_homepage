@@ -28,8 +28,8 @@ social:
     icon_pack: ai
     link: files/cv.pdf
 organizations:
-  - name: Huazhong University of Science and Technology (HUST)
-    url: https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology
+  - name: Westlake University
+    url: https://en.westlake.edu.cn
 education:
   courses:
     - course: B.Eng. in Electronic and Information Engineering
