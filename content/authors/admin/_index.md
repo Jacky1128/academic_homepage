@@ -6,7 +6,7 @@ bio: Visiting student at Westlake University under Chair Prof. Stan Z. Li, focus
   visual representation learning and AI for Genomics.
 interests:
   - Representation Learning
-  - AI for Science
+  - AI for Genomics
 social:
   - icon: google-scholar
     icon_pack: ai
