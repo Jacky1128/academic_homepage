@@ -46,10 +46,10 @@ Previously, I worked on efficient visual recognition and few-shot semantic segme
 Welcome to contact me about research and internship.
 
 **News:**
-* **10/2023**   New preprint [SemiReward: A General Reward Model for Semi-supervised Learning](https://arxiv.org/abs/2310.03013).
+* **10/2023**   New preprint [SemiReward](https://arxiv.org/abs/2310.03013): The first reward model for general semi-supervised learning.
 * **09/2023**   One paper [OpenSTL](https://arxiv.org/abs/2306.11249) is accepted by NeurIPS 2023.
 * **06/2023**   Honored to be [CSIG](https://www.csig.org.cn) Student Member.
-* **05/2023**   New preprint [SAMix](https://arxiv.org/abs/2111.15454): The first mixup algorithm that solves the 2 remaining challenges within data mixing at once for various scenarios.
-* **11/2022**   New preprint [MogaNet](https://arxiv.org/abs/2211.03295): A novel pure convolutional architecture through the lens of multi-order game-theoretic interaction.
-* **09/2022**   New preprint [OpenMixup](https://arxiv.org/abs/2209.04851): The first comprehensive mixup benchmarking study for visual classification.
-* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) codebase (518 stars).
+* **05/2023**   New preprint [SAMix](https://arxiv.org/abs/2111.15454): The first mixup algorithm that solves the 2 remaining challenges at once for both SL and SSL scenarios.
+* **11/2022**   New preprint [MogaNet](https://arxiv.org/abs/2211.03295): A new pure ConvNet architecture from the novel perspective of multi-order game-theoretic interaction.
+* **09/2022**   New preprint [OpenMixup](https://arxiv.org/abs/2209.04851): The first comprehensive mixup benchmark and codebase framework for visual classification and more.
+* **09/2022**   Responsible for the maintenance of [OpenMixup](https://github.com/Westlake-AI/openmixup) codebase (524 stars).
