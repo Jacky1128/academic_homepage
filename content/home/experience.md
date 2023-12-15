@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Student
+  - title: Incoming Ph.D. Student
     company: CAIRI AI Lab, Westlake University
     company_url: 'https://github.com/Westlake-AI'
     company_logo: 
@@ -33,9 +33,10 @@ experience:
     description: |2-
         Responsibilities include:
   
-        * Mixup-related data augmentation methods.
-        * Efficient deep visual architecture design.
-        * AI+ applications in CRISPR-based gene editing.
+        * Data mixing augmentation and label efficient leanring (OpenMixup, SAMix, SemiReward).
+        * Efficient deep visual network architecture design (MogaNet).
+        * Framework-level representation learning.
+        * AI for Genomics.
         
 
   - title: Research Intern
@@ -50,8 +51,8 @@ experience:
         
         * Few-shot semantic segmentation.
      
-  - title: Visiting Student
-    company: Multimedia Laboratory (MMLab), Shenzhen Institute of Advanced Technology(SIAT), Chinese Academy of Sciences
+  - title: Research Intern
+    company: MMLab, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences
     company_url: 'http://mmlab.siat.ac.cn/'
     company_logo: 
     location: Shenzhen, Guangdong, China
@@ -61,6 +62,7 @@ experience:
         Responsibilities include:
         
         * Semantic segmentation.
+        * Text spotting
         * Vision model configuration.
         * Visual data sifting.
    
