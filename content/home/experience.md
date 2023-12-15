@@ -35,7 +35,7 @@ experience:
   
         * Data mixing augmentation and label efficient leanring (OpenMixup, SAMix, SemiReward).
         * Efficient deep visual network architecture design (MogaNet).
-        * Framework-level representation learning.
+        * Framework-level representation learning (OpenSTL).
         * AI for Genomics.
         
 
