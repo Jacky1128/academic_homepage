@@ -1,6 +1,6 @@
 ---
 title: Zedong Wang
-role: Incoming Ph.D. Student at Westlake University
+role: Visiting Student at Westlake University
 avatar_filename: avatar.jpg
 bio: Visiting student at Westlake University under Chair Prof. Stan Z. Li, focusing on
   visual representation learning and AI for Genomics.
