@@ -30,10 +30,10 @@ content:
   email: jackywang28@outlook.com
   phone: 
   address:
-    street: Luoyu Road 1037
-    city: Wuhan
+    street: Dunyu Road 600
+    city: Hangzhou
     region: 
-    postcode: '430000'
+    postcode: '310000'
     country: China
     country_code: CHN
   #coordinates:
