@@ -39,13 +39,16 @@ email: jackywang28@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am an HK-born AI researcher. I obtained my B.Eng. in Electronic and Information Engineering (Machine Intelligence) from [Huazhong University of Science & Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). Currently, I am a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Prof. Stan Z. Li (IEEE Fellow, IAPR Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests center around visual representation learning from 3 levels: **(i) Data-level:** Mixup augmentation & label efficient learning. **(ii) Network-level:** Efficient network architecture design. **(iii) Framework-level:** Vector Quantized representation learning and generation. Besides, I am also interested in **AI for Genomics** applications.{.justify} \
+I no longer use this homepage. Please Please Visit My [New Homepage](https://jacky1128.github.io) For The Latest Updates!
+\
+I am an HK-born AI researcher. I obtained my B.Eng. in Electronic and Information Engineering (Machine Intelligence) from [Huazhong University of Science & Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology). Currently, I am a visiting student in [CAIRI AI Lab](https://github.com/Westlake-AI) under [Chair Prof. Stan Z. Li (IEEE Fellow, IAPR Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) at [Westlake University](https://en.westlake.edu.cn/). My research interests center around visual representation learning from 3 levels: **(i) Data-level:** Mixup augmentation & label efficient learning. **(ii) Network-level:** Efficient network architecture design. **(iii) Framework-level:** Vector Quantized representation learning and generation. Besides, I am also interested in **AI for Genomics** applications. \
 \
 Previously, I worked on few-shot semantic segmentation fortunately supervised by [Prof. Xinggang Wang](https://scholar.google.com/citations?hl=zh-CN&user=qNCTLV0AAAAJ). In the summer of 2021, I was a visiting student at Multimedia Lab [(MMLab)](http://mmlab.siat.ac.cn/), Shenzhen Institute of Advanced Technology [(SIAT)](https://english.siat.ac.cn/), Chinese Academy of Sciences (CAS). Before that, I conducted a research internship remotely at [Key Lab of Digital Earth Science](http://www.digitalearthlab.com.cn/), CAS (2020-2021).{.justify}
 
 Welcome to contact me about research and internship.
 
 **News:**
+* **04/2024**   Please Visit My [New Homepage](https://jacky1128.github.io) For The Latest Updates!
 * **10/2023**   New preprint [SemiReward](https://arxiv.org/abs/2310.03013): The first reward model for general-purpose semi-supervised learning.
 * **09/2023**   One paper [OpenSTL](https://arxiv.org/abs/2306.11249) is accepted by NeurIPS 2023.
 * **06/2023**   Honored to be [CSIG](https://www.csig.org.cn) Student Member.
